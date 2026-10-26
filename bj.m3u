@@ -1,0 +1,1484 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+# PJ-StreamTV-ready playlist
+# Normalized: clean channel names, sequential tvg-chno/channel-number, one playable URL per EXTINF.
+
+#EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imgur.com/RCPlm91.jpeg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="3rstv",PBB 3.0 Dining Area Livestream
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ac87b335cfd44a8589f96a4f8534c674
+#KODIPROP:inputstream.adaptive.clear_key=4b9066c7778e74b899c2f57d977149b1
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
+
+#EXTINF:-1 tvg-chno="779" channel-number="779" tvg-id="PBB 3.0 External Den Livestream" tvg-logo="https://i.imgur.com/RCPlm91.jpeg" tvg-name="PBB 3.0 External Den Livestream" group-title="3rstv",PBB 3.0 External Den Livestream
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=01f5f16338aa4302b5fc5e3e2c50cd3d
+#KODIPROP:inputstream.adaptive.clear_key=0dbd0f05009fa64614de990f56b3f322
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="RYANTV FREETV", PBB 3.0 ALL ACESS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="RYANTV FREETV", PBB 3.0 MAIN LIVE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
+https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
+#EXTINF:-1 tvg-chno="1" channel-number="1" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/dpGrvi4.jpeg" tvg-name="DURIAN TV" group-title="PjStreamTV",DURIAN TV
+https://duriantv.tonia3305.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="2" channel-number="2" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/B19YGN3.jpeg" tvg-name="PTN" group-title="PjStreamTV",PTN
+https://ptnglobal.sanmateocable.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="3" channel-number="3" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/PfqrJEf.png" tvg-name="HYPE TV" group-title="PjStreamTV",HYPE TV
+https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="4" channel-number="4" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/sKMOzY7.jpeg" tvg-name="DREAM TV PHILIPPINES" group-title="PjStreamTV",DREAM TV PHILIPPINES
+https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="5" channel-number="5" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/VEpLVW0.jpeg" tvg-name="STAR TV PHILIPPINES" group-title="PjStreamTV",STAR TV PHILIPPINES
+https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="6" channel-number="6" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/QalEBc8.jpeg" tvg-name="STAR TELEVISION" group-title="PjStreamTV",STAR TELEVISION
+https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="7" channel-number="7" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/gR8HDzY.png" tvg-name="SINE PLUS" group-title="PjStreamTV",SINE PLUS
+https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="8" channel-number="8" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/L8seHZE.jpeg" tvg-name="ASIA FLIX TV" group-title="PjStreamTV",ASIA FLIX TV
+https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="9" channel-number="9" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/50RyQA7.jpeg" tvg-name="3RS TV" group-title="PjStreamTV",3RS TV
+https://3rstv.tonia3305.workers.dev/peanut.m3u8
+
+#EXTINF:-1 tvg-chno="10" channel-number="10" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/OCS1l7G.jpeg" tvg-name="3RS SINE PINOY" group-title="PjStreamTV",3RS SINE PINOY
+https://3rssinepinoy.tonia3305.workers.dev/mochi.m3u8
+
+#EXTINF:-1 tvg-chno="11" channel-number="11" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/b4rjf8n.jpg" tvg-name="3RS MOVIE BOX" group-title="PjStreamTV",3RS MOVIE BOX
+https://3rsmoviebox.tonia3305.workers.dev/moon.m3u8
+
+#EXTINF:-1 tvg-chno="12" channel-number="12" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/OMGlC4R.jpg" tvg-name="3RS CARTOON MOVIES" group-title="PjStreamTV",3RS CARTOON MOVIES
+https://3rscartoonmovies.tonia3305.workers.dev/kolet.m3u8
+
+#EXTINF:-1 tvg-chno="13" channel-number="13" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/oOzQPv3.jpg" tvg-name="3RS SINE AKSYON" group-title="PjStreamTV",3RS SINE AKSYON
+https://3rssineaksyon.peanutfrenztv.workers.dev/donut.m3u8
+
+#EXTINF:-1 tvg-chno="14" channel-number="14" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/44LgASs.png" tvg-name="SOUTH STAR TV" group-title="PjStreamTV",SOUTH STAR TV
+https://southstartv.tonia3305.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="15" channel-number="15" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/cVGQaUB.png" tvg-name="EPIC ONE TV" group-title="PjStreamTV",EPIC ONE TV
+https://epiconetv.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="16" channel-number="16" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/gr8ZmRL.png" tvg-name="BIG SCREEN TV" group-title="PjStreamTV",BIG SCREEN TV
+https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="17" channel-number="17" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/dzttXQj.png" tvg-name="SMMC TV" group-title="PjStreamTV",SMMC TV
+https://startelevisionmmcdi.sanmateocable1.workers.dev/smmctv/alltv-master/live.m3u8
+
+#EXTINF:-1 tvg-chno="18" channel-number="18" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/JUb4wmp.png" tvg-name="COLORS TV" group-title="PjStreamTV",COLORS TV
+https://colorstvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="19" channel-number="19" tvg-id="PjStreamTV" tvg-logo="https://iwatchtvradioworldwide.uk/uploads/station_1789622781_cdbca9a6.jpg" tvg-name="MOVIE BOX HITS" group-title="PjStreamTV",MOVIE BOX HITS
+https://movieboxhitsph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="20" channel-number="20" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/HMV8KNO.png" tvg-name="EASTERN LUZON DIGITALTV" group-title="PjStreamTV",EASTERN LUZON DIGITALTV
+https://easternluzondigitaltv.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="21" channel-number="21" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/EMACMfl.png" tvg-name="AVL TV" group-title="PjStreamTV",AVL TV
+https://avlmedianetwork.vonnhost1.workers.dev/avl.live.m3u8
+
+#EXTINF:-1 tvg-chno="22" channel-number="22" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/akqmKgy.png" tvg-name="JPVTV" group-title="PjStreamTV",JPVTV
+https://jpvtvphilippines_hd.vonnhost.workers.dev/jpv.live/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="23" channel-number="23" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/DcSl0pe.png" tvg-name="MR.YUSO TV" group-title="PjStreamTV",MR.YUSO TV
+https://mryuso.porhibitum.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="24" channel-number="24" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" tvg-name="ALL TV" group-title="PjStreamTV",ALL TV
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="25" channel-number="25" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" tvg-name="A2Z" group-title="PjStreamTV",A2Z
+http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="26" channel-number="26" tvg-logo="https://i.imgur.com/WcYS3S3.png" tvg-name="KAPAMILYA CHANNEL HD" group-title="PjStreamTV",KAPAMILYA CHANNEL HD
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="27" channel-number="27" tvg-logo="https://i.imgur.com/Cu1tAY8.png" tvg-name="GMA 7" group-title="PjStreamTV",GMA 7
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="28" channel-number="28" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" tvg-name="TV5" group-title="PjStreamTV",TV5
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="29" channel-number="29" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" tvg-name="CNN INTERNATIONAL" group-title="PjStreamTV",CNN INTERNATIONAL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v34bl1VcSst0VfcRsqn/Fg","kid":"G2GKKRzs5EyYRd3fxP2bEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="30" channel-number="30" tvg-logo="https://i.imgur.com/e5IZsv3.png" tvg-name="CELESTIAL MOVIES PINOY" group-title="PjStreamTV",CELESTIAL MOVIES PINOY
+http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="31" channel-number="31" tvg-logo="https://i.imgur.com/61fHpnW.png" tvg-name="PBO" group-title="PjStreamTV",PBO
+http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="32" channel-number="32" tvg-id="PjStreamTV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" tvg-name="VIVA CINEMA" group-title="PjStreamTV",VIVA CINEMA
+http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="33" channel-number="33" tvg-logo="https://i.imgur.com/6mNCite.png" tvg-name="TMC" group-title="PjStreamTV",TMC
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="34" channel-number="34" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005.png" tvg-name="SOLAR SPORTS" group-title="PjStreamTV",SOLAR SPORTS
+http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="35" channel-number="35" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" tvg-name="ONE SPORTS" group-title="PjStreamTV",ONE SPORTS
+http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="36" channel-number="36" tvg-logo="https://imgur.com/gLIhWnK.png" tvg-name="GMA PINOY TV" group-title="PjStreamTV",GMA PINOY TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b5d15a7385546768aca9fd505ad5e16:f534393c84c1a9c17fa36bc3a4380981
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
+https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
+
+#EXTINF:-1 tvg-chno="37" channel-number="37" tvg-logo="https://imgur.com/Xu7rM9l.jpg" tvg-name="GMA LIFE TV" group-title="PjStreamTV",GMA LIFE TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d308ef487f54107b7da758e195ecbd3:9d4004d4c065dd4b85ad5bd12c35386f
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
+https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
+
+#EXTINF:-1 tvg-chno="38" channel-number="38" tvg-logo="https://imgur.com/CHz4DIe.png" tvg-name="GMA NEWS TV" group-title="PjStreamTV",GMA NEWS TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5d848730e4a4f9b962290039dd2b96b:c959dc12f1bff5a66d030117fb7e9855
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
+https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
+
+#EXTINF:-1 tvg-chno="39" channel-number="39" tvg-logo="https://imgur.com/bZNd0Jy.png" tvg-name="GTV" group-title="PjStreamTV",GTV
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="40" channel-number="40" tvg-logo="https://i.imgur.com/npj41pk.png" tvg-name="DZMM TELERADYO" group-title="PjStreamTV",DZMM TELERADYO
+http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="41" channel-number="41" tvg-logo="https://i.imgur.com/KJaSftF.png" tvg-name="TAP TV" group-title="PjStreamTV",TAP TV
+http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="42" channel-number="42" tvg-logo="https://i.imgur.com/3YvDUjL.png" tvg-name="TAP EDGE" group-title="PjStreamTV",TAP EDGE
+http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="43" channel-number="43" tvg-logo="https://i.imgur.com/ZsWDiRF.png" tvg-name="TAP SPORTS" group-title="PjStreamTV",TAP SPORTS
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="44" channel-number="44" tvg-logo="https://i.imgur.com/cgfKSDP.png" tvg-name="DREAMWORKS" group-title="PjStreamTV",DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-chno="45" channel-number="45" tvg-logo="https://i.imgur.com/cgfKSDP.png" tvg-name="DREAMWORKS (TAGALIZED)" group-title="PjStreamTV",DREAMWORKS (TAGALIZED)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f9c3a218d454b70a2187e5c3d6f9042:337ca7b74b462dd1ba7441553614538a
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
+
+#EXTINF:-1 tvg-chno="46" channel-number="46" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" tvg-name="HISTORY" group-title="PjStreamTV",HISTORY
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/22515.m3u8
+
+#EXTINF:-1 tvg-chno="47" channel-number="47" tvg-logo="https://imgur.com/YK1L1yg.png" tvg-name="TFC" group-title="PjStreamTV",TFC
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/339181.m3u8
+
+#EXTINF:-1 tvg-chno="48" channel-number="48" tvg-logo="https://i.imgur.com/Qvj8mf4.png" tvg-name="LIFETIME" group-title="PjStreamTV",LIFETIME
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23292.m3u8
+
+#EXTINF:-1 tvg-chno="49" channel-number="49" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" tvg-name="AXN" group-title="PjStreamTV",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="50" channel-number="50" tvg-logo="https://imgur.com/Eo7DTfK.png" tvg-name="THE MANILA TIMES" group-title="PjStreamTV",THE MANILA TIMES
+https://customer-ksrwu2hvu2ipx2fb.cloudflarestream.com/121fd4c01c7ed1c0b1d2c6699e52309a/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwww.manilatimes.net
+
+#EXTINF:-1 tvg-chno="51" channel-number="51" tvg-logo="https://i.imgur.com/b6JmGBq.png" tvg-name="INC TV" group-title="PjStreamTV",INC TV
+http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="52" channel-number="52" tvg-logo="https://imgur.com/xJg2gEI.png" tvg-name="INC" group-title="PjStreamTV",INC
+http://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+
+#EXTINF:-1 tvg-chno="53" channel-number="53" tvg-logo="https://i.imgur.com/LB2vmMt.png" tvg-name="HOPE CHANNEL PHILIPPINES" group-title="PjStreamTV",HOPE CHANNEL PHILIPPINES
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+
+#EXTINF:-1 tvg-chno="54" channel-number="54" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" tvg-name="CINEMA ONE" group-title="PjStreamTV",CINEMA ONE
+http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="55" channel-number="55" tvg-logo="https://i.imgur.com/x1ZG71v.png" tvg-name="NBA TV PHILIPPINES" group-title="PjStreamTV",NBA TV PHILIPPINES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
+https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
+
+#EXTINF:-1 tvg-chno="56" channel-number="56" tvg-logo="https://i.imgur.com/F2npB7o.png" tvg-name="PBA RUSH" group-title="PjStreamTV",PBA RUSH
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/322632.m3u8
+
+#EXTINF:-1 tvg-chno="57" channel-number="57" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" tvg-name="TVN MOVIES" group-title="PjStreamTV",TVN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
+
+#EXTINF:-1 tvg-chno="58" channel-number="58" tvg-logo="https://i.imgur.com/eE9IBhJ.png" tvg-name="TVN PREMIUM" group-title="PjStreamTV",TVN PREMIUM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="59" channel-number="59" tvg-logo="https://i.imgur.com/V0sxXci.png" tvg-name="UAAP VARSITY CHANNEL" group-title="PjStreamTV",UAAP VARSITY CHANNEL
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/322608.m3u8
+
+#EXTINF:-1 tvg-chno="60" channel-number="60" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" tvg-name="PTV4" group-title="PjStreamTV",PTV4
+http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="61" channel-number="61" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" tvg-name="IBC 13" group-title="PjStreamTV",IBC 13
+http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="62" channel-number="62" tvg-logo="https://i.imgur.com/pPPubX5.png" tvg-name="NET 25" group-title="PjStreamTV",NET 25
+http://136.239.173.26:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpBCCDeDIJn9rDuWx8BszuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001217&contentid=ch00000000000000001217&videoid=ch00000090990000001090&recommendtype=0&userid=1645621004526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5X13LGN2GQBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="63" channel-number="63" tvg-logo="https://static.wikia.nocookie.net/dxs/images/c/c3/UNTV_Public_Service_Logo_2022.png/revision/latest?cb=20221014202457" tvg-name="UNTV" group-title="PjStreamTV",UNTV
+http://136.239.173.10:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8EKxpteUJNLDuI18c3YYNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001177&contentid=ch00000000000000001177&videoid=ch00000090990000001091&recommendtype=0&userid=1785051491883&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7BZSNFMO8LPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="64" channel-number="64" tvg-logo="https://imgur.com/1SWAlc4.png" tvg-name="MTV LIVE US" group-title="PjStreamTV",MTV LIVE US
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-chno="65" channel-number="65" tvg-logo="https://imgur.com/j86MsEI.png" tvg-name="BEST ACTION" group-title="PjStreamTV",BEST ACTION
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="66" channel-number="66" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" tvg-name="RPTV" group-title="PjStreamTV",RPTV
+http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BplioRPAB6XCf%2FrlkX7xxQZytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001215&contentid=ch00000000000000001215&videoid=ch00000090990000001094&recommendtype=0&userid=1177699247918&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YBHPP0KWBIFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="67" channel-number="67" tvg-logo="https://i.imgur.com/vGEL2Ne.png" tvg-name="WARNER TV" group-title="PjStreamTV",WARNER TV
+http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="68" channel-number="68" tvg-logo="https://i.imgur.com/Zd5zm7C.png" tvg-name="FASHION TV" group-title="PjStreamTV",FASHION TV
+http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="69" channel-number="69" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkvWEPQltk-Xq-ixCjPdOGxoqgIlMsc095A&s" tvg-name="LIGHT TV" group-title="PjStreamTV",LIGHT TV
+http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqkZ6SnNx3gh97OtxQ2ygibytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001179&contentid=ch00000000000000001179&videoid=ch00000090990000001103&recommendtype=0&userid=1847927235474&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FR3HWWBCXEEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="70" channel-number="70" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8NjV5sqkKOgSpV7-Nj5Dd0KHMVhrtW6ukg&s" tvg-name="EWTN" group-title="PjStreamTV",EWTN
+http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1130713546686&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGMTXNDRQLDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="71" channel-number="71" tvg-logo="https://i.imgur.com/vm9Z0uV.png" tvg-name="CHANNEL NEWS ASIA" group-title="PjStreamTV",CHANNEL NEWS ASIA
+http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1618692244090&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0A4KF9O3OZU7XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="72" channel-number="72" tvg-logo="https://imgur.com/RyaRXsm.png" tvg-name="ARIRANG" group-title="PjStreamTV",ARIRANG
+http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="73" channel-number="73" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" tvg-name="CINEMAX" group-title="PjStreamTV",CINEMAX
+http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="74" channel-number="74" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ABCLogo.png/revision/latest?cb=20161012105022" tvg-name="ALIW CHANNEL" group-title="PjStreamTV",ALIW CHANNEL
+http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1657667082928&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JK9HJ5J3VGXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="75" channel-number="75" tvg-logo="https://i.imgur.com/kVVax44.png" tvg-name="ABC AUSTRALIA" group-title="PjStreamTV",ABC AUSTRALIA
+http://136.239.173.26:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpS6W%2B6YCeAzzWlWVs9TWyRytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001273&contentid=ch00000000000000001273&videoid=ch00000090990000001111&recommendtype=0&userid=1836152308422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OIM96MPU9AXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="76" channel-number="76" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/TVE_Internacional_old.png/revision/latest?cb=20220507144624" tvg-name="TVE INTERNATIONAL" group-title="PjStreamTV",TVE INTERNATIONAL
+http://136.158.97.2:6610/001/2/ch00000090990000001112/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0ljLQuLaqTKdgvofK6hc4ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001275&contentid=ch00000000000000001275&videoid=ch00000090990000001112&recommendtype=0&userid=1405270067404&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O5OYCFP87ZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="77" channel-number="77" tvg-logo="https://imgur.com/crpWaRY.png" tvg-name="PHOENIX INFO NEWS" group-title="PjStreamTV",PHOENIX INFO NEWS
+http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrJ%2FmqaM1lrBiCRhhaFxCv%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001274&contentid=ch00000000000000001274&videoid=ch00000090990000001113&recommendtype=0&userid=1615200557296&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=F3CWPRYA79AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="78" channel-number="78" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" tvg-name="CINEMO!" group-title="PjStreamTV",CINEMO!
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="79" channel-number="79" tvg-logo="https://i.imgur.com/3RVA5mV.png" tvg-name="TAP MOVIES" group-title="PjStreamTV",TAP MOVIES
+http://136.239.159.20:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrqmX9tLke4aZIpUgreyOpNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1621837627360&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DE8LQ2K74YXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="80" channel-number="80" tvg-logo="https://imgur.com/w1wVcnm.png" tvg-name="TAP ACTION FLIX" group-title="PjStreamTV",TAP ACTION FLIX
+http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1826997527749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BJ80X0UU6VXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="81" channel-number="81" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/32/Spotlight.png" tvg-name="SPOTLIGHT TV" group-title="PjStreamTV",SPOTLIGHT TV
+http://136.239.158.30:6610/001/2/ch00000090990000001134/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5iGQ4tDytzSdpM9ehJW6pytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001281&contentid=ch00000000000000001281&videoid=ch00000090990000001134&recommendtype=0&userid=1790262524603&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MG695A5LWR8XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="82" channel-number="82" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/04/30155044-0kku5yurn6llsmti.png" tvg-name="PREMIER SPORTS" group-title="PjStreamTV",PREMIER SPORTS
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="83" channel-number="83" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest/scale-to-width-down/250?cb=20220528091432" tvg-name="PREMIER SPORTS 2" group-title="PjStreamTV",PREMIER SPORTS 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="84" channel-number="84" tvg-logo="https://i.imgur.com/x1wehbs.png" tvg-name="CARTOONITO" group-title="PjStreamTV",CARTOONITO
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/47750.m3u8
+	
+#EXTINF:-1 tvg-chno="85" channel-number="85" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest/scale-to-width-down/250?cb=20210818141459" tvg-name="CGTN" group-title="PjStreamTV",CGTN
+http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="876" channel-number="86" tvg-logo="https://avpn.asia/wp-content/uploads/2018/07/TBN-Asia-Logo.jpg" tvg-name="TBN ASIA" group-title="PjStreamTV",TBN ASIA
+http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br1gDY5x7IZ%2FDqQTvxeS3W1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001317&contentid=ch00000000000000001317&videoid=ch00000090990000001147&recommendtype=0&userid=1315480960661&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IK7JAFC7DFXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="87" channel-number="87" tvg-logo="https://magmediaintl.com/images/logochannels/Hallypop%20Logo.png" tvg-name="HALLYPOP" group-title="PjStreamTV",HALLYPOP
+http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="88" channel-number="88" tvg-logo="https://i.imgur.com/Wsj7iPd.png" tvg-name="LIVING ASIA CHANNEL" group-title="PjStreamTV",LIVING ASIA CHANNEL
+http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="89" channel-number="89" tvg-logo="https://i.imgur.com/WL2ugeZ.png" tvg-name="SMNI CHANNEL" group-title="PjStreamTV",SMNI CHANNEL
+http://136.239.173.10:6610/001/2/ch00000090990000001155/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bop4OXrlwmfDc6Bu48vA%2B4AytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001335&contentid=ch00000000000000001335&videoid=ch00000090990000001155&recommendtype=0&userid=1436446282400&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZCER3GW1NZPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="90" channel-number="90" tvg-logo="https://imgur.com/RNsjxTm.png" tvg-name="TV5 MONDE" group-title="PjStreamTV",TV5 MONDE
+http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrZbWy4P3NKKVNXe3wACXZmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001336&contentid=ch00000000000000001336&videoid=ch00000090990000001156&recommendtype=0&userid=1384915951397&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QZOPZ9VOOVLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="91" channel-number="91" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-name="FRANCE24" group-title="PjStreamTV",FRANCE24
+http://136.239.158.18:6610/001/2/ch00000090990000001157/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br79DvzaC5n7CqXniN8aprYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001337&contentid=ch00000000000000001337&videoid=ch00000090990000001157&recommendtype=0&userid=1349970790575&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HLVGZN99ZDDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="92" channel-number="92" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" tvg-name="RJTV 29" group-title="PjStreamTV",RJTV 29
+http://136.239.158.10:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BreKmZs4H3Zuj6jrvRtgmFqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001395&contentid=ch00000000000000001395&videoid=ch00000090990000001159&recommendtype=0&userid=1981697457601&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VPNC8TXZ55DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="93" channel-number="93" tvg-logo="https://tvmaria.ph/wp-content/uploads/2021/11/49664812_1960528887328520_738333465484722176_n.png" tvg-name="TV MARIA" group-title="PjStreamTV",TV MARIA
+http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="94" channel-number="94" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/BS_Fuji_2008_alt.svg/revision/latest/scale-to-width-down/250?cb=20240719135358" tvg-name="BS FUJI" group-title="PjStreamTV",BS FUJI
+http://136.239.158.18:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1293542013193&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FHCWZ7XXFIVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="95" channel-number="95" tvg-logo="https://imgur.com/jxmZACZ.png" tvg-name="DW NEWS" group-title="PjStreamTV",DW NEWS
+http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoTcUYwq3PMi%2FTObKiSY6bDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001377&contentid=ch00000000000000001377&videoid=ch00000090990000001166&recommendtype=0&userid=1209889128637&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=GFCSNPUV69DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="96" channel-number="96" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" tvg-name="DZRH TV" group-title="PjStreamTV",DZRH TV
+http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="97" channel-number="97" tvg-logo="https://i.imgur.com/0ZDw53x.png" tvg-name="GOOD TV" group-title="PjStreamTV",GOOD TV
+http://136.158.97.2:6610/001/2/ch00000090990000001175/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpQqyrYGvsQGfBZz9lkpM7HytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001394&contentid=ch00000000000000001394&videoid=ch00000090990000001175&recommendtype=0&userid=1010875891030&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1G13UFJCY45XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="98" channel-number="98" tvg-logo="https://i.imgur.com/OgBDJ75.png" tvg-name="SOLARFLIX" group-title="PjStreamTV",SOLARFLIX
+http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="99" channel-number="99" tvg-logo="https://i.imgur.com/4JCkzjl.png" tvg-name="CELESTIAL CLASSIC MOVIES" group-title="PjStreamTV",CELESTIAL CLASSIC MOVIES
+http://136.239.158.18:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8jImOa2AKrqwa1m%2FJfhceytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1537952098663&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WEF0S27HC1HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="100" channel-number="100" tvg-logo="https://imgur.com/eSYF1Rq.png" tvg-name="ABANTE TV" group-title="PjStreamTV",ABANTE TV
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="101" channel-number="101" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" tvg-name="BILYONARYO CHANNEL" group-title="PjStreamTV",BILYONARYO CHANNEL
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="102" channel-number="102" tvg-logo="https://i.imgur.com/CIPTNnT.png" tvg-name="MYX PHILIPPINES" group-title="PjStreamTV",MYX PHILIPPINES
+http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="103" channel-number="103" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Un5_BaTlKCiwEIH0RM1Kf2uuEWs7tC7rRQ&s" tvg-name="RADIO MARIA" group-title="PjStreamTV",RADIO MARIA
+http://136.239.173.26:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoMJQgjeNgI0lKcIWq2Qc67ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001815&contentid=ch00000000000000001815&videoid=ch00000090990000001327&recommendtype=0&userid=1715152829702&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4UH5RFC56HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="104" channel-number="104" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Rock_Manila_Logo_2023.png/revision/latest?cb=20240316065316" tvg-name="ROCK TV OF MANILA" group-title="PjStreamTV",ROCK TV OF MANILA
+http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq3IoTFSryS9b7zI0P4QXhKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001414&contentid=ch00000000000000001414&videoid=ch00000090990000001177&recommendtype=0&userid=1440892826941&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AGE6A6KKG8LXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="105" channel-number="105" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" tvg-name="CARTOON NETWORK" group-title="PjStreamTV",CARTOON NETWORK
+http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001396&contentid=ch00000000000000001396&videoid=ch00000090990000001178&recommendtype=0&userid=1894774110158&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8K2SX2J7IIWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="106" channel-number="106" tvg-logo="https://i.imgur.com/1rxmu2u.png" tvg-name="CHARGE!" group-title="PjStreamTV",CHARGE!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-chno="107" channel-number="107" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" tvg-name="LOTUS MACAO" group-title="PjStreamTV",LOTUS MACAO
+http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="108" channel-number="108" tvg-logo="https://i.imgur.com/UIqEr2y.png" tvg-name="KNOWLEDGE CHANNEL" group-title="PjStreamTV",KNOWLEDGE CHANNEL
+http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="109" channel-number="109" tvg-logo="https://imgur.com/2wH6wd6.png" tvg-name="BS10" group-title="PjStreamTV",BS10
+http://136.239.173.26:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5DOWlb1sl%2Btaq5YYAtO9QytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001421&contentid=ch00000000000000001421&videoid=ch00000090990000001202&recommendtype=0&userid=1162923937911&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DZNL8HTZEICXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="110" channel-number="110" tvg-logo="https://i.imgur.com/3zp7a0B.png" tvg-name="NHK WORLD JAPAN" group-title="PjStreamTV",NHK WORLD JAPAN
+http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqZTKpeZkGzV2we2%2BZ6q6g3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1553915080287&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G0CGMZFORK5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="111" channel-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/BS_Fuji_2008_alt.svg/revision/latest/scale-to-width-down/250?cb=20240719135358.png" tvg-name="BS NITTELE" group-title="PjStreamTV",BS NITTELE
+http://136.158.97.2:6610/001/2/ch00000090990000001213/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqVCNWul70O3g%2BsOvpld6kgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001422&contentid=ch00000000000000001422&videoid=ch00000090990000001213&recommendtype=0&userid=1829774634107&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HQFPYZNKI2XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="112" channel-number="112" tvg-logo="https://imgur.com/VIHlLFK.png" tvg-name="NHK BS" group-title="PjStreamTV",NHK BS
+http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1516257620825&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N8EJG3JY51DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="113" channel-number="113" ttvg-logo="https://i.imgur.com/4MozyqM.png" tvg-name="NICK JR" group-title="PjStreamTV",NICK JR
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/47796.m3u8
+
+#EXTINF:-1 tvg-chno="114" channel-number="114" tvg-logo="https://i.imgur.com/Bcu69bU.png" tvg-name="ANC" group-title="PjStreamTV",ANC
+http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="115" channel-number="115" tvg-logo="https://i.imgur.com/HBisPOA.png" tvg-name="CCTV4" group-title="PjStreamTV",CCTV4
+http://136.239.173.10:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrXm%2BLs%2BN7C0jX0KTEhSJl3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1235993277645&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=36FNJHET6H5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="116" channel-number="116" tvg-logo="https://i.imgur.com/m6EFnqh.png" tvg-name="GNN" group-title="PjStreamTV",GNN
+http://136.158.97.2:6610/001/2/ch00000090990000001234/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp6sHVPy02nySMqUY2vMm%2BjytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001523&contentid=ch00000000000000001523&videoid=ch00000090990000001234&recommendtype=0&userid=1521078532205&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EP8Z20BUC89XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="117" channel-number="117" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/scale-to-width-down/306?cb=20220502112950&path-prefix=vi" tvg-name="THRILL" group-title="PjStreamTV",THRILL
+http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="118" channel-number="118" tvg-logo="https://imgur.com/Fvs3x9r.png" tvg-name="MOONBUG KIDS" group-title="PjStreamTV",MOONBUG KIDS
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+	
+#EXTINF:-1 tvg-chno="119" channel-number="119" tvg-logo="https://i.imgur.com/B8Fmzer.png" tvg-name="KIX" group-title="PjStreamTV",KIX
+http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="120" channel-number="120" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321" tvg-name="METRO CHANNEL" group-title="PjStreamTV",METRO CHANNEL
+http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="121" channel-number="121" tvg-logo="https://imgur.com/l39AkQt.png" tvg-name="ANIPLUS" group-title="PjStreamTV",ANIPLUS
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="122" channel-number="122" tvg-logo="https://deprecated.cc/tv/images/RNtLJ3S.png" tvg-name="PBS KIDS" group-title="PjStreamTV",PBS KIDS
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
+
+#EXTINF:-1 tvg-chno="123" channel-number="123" tvg-logo="https://i.imgur.com/hW6z1RG.png" tvg-name="ASIAN CRUSH" group-title="PjStreamTV",ASIAN CRUSH
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="124" channel-number="124" tvg-logo="https://i.imgur.com/o1icKZu.png" tvg-name="ASIAN CULTURE TV" group-title="PjStreamTV",ASIAN CULTURE TV
+https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="125" channel-number="125" tvg-logo="https://imgur.com/rmbyRW1.png" tvg-name="RAKUTEN VIKI" group-title="PjStreamTV",RAKUTEN VIKI
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="126" channel-number="126" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759" tvg-name="CLTV 36" group-title="PjStreamTV",CLTV 36
+http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814&videoid=ch00000090990000001314&recommendtype=0&userid=1863730940752&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=689D0763BF7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="127" channel-number="127" tvg-logo="https://imgur.com/kdi5G7D.png" tvg-name="Al JAZEERA" group-title="PjStreamTV",Al JAZEERA
+http://136.239.173.10:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpIEgcDfK9VMvZFzWy7ZaCtytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1546142827579&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2USMKY0PXD5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-chno="128" channel-number="128" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" tvg-name="KBS WORLD" group-title="PjStreamTV",KBS WORLD
+https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="129" channel-number="129" tvg-logo="https://imgur.com/l8UpRPp.png" tvg-name="GAME SHOW NETWORK HD" group-title="PjStreamTV",GAME SHOW NETWORK HD 
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="130" channel-number="130" tvg-logo="https://i.imgur.com/XIjXTSP.jpeg" tvg-name="STINGRAY KARAOKE" group-title="PjStreamTV",STINGRAY KARAOKE
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="131" channel-number="131" tvg-logo="https://imgur.com/YnvHBEh.png" tvg-name="AQUARIUM" group-title="PjStreamTV",AQUARIUM
+https://iptv.prosto.tv/ch325/video.m3u8
+
+#EXTINF:-1 tvg-chno="132" channel-number="132" tvg-logo="https://i.imgur.com/YN7ORaH.jpeg" tvg-name="BAYWATCH" group-title="PjStreamTV",BAYWATCH
+https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1fcc0aab891/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="133" channel-number="133" tvg-logo="https://i.imgur.com/yhwKBxz.png" tvg-name="UFC TV" group-title="PjStreamTV",UFC TV
+https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="134" channel-number="134" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/horror-tv.png" tvg-name="HORROR TV" group-title="PjStreamTV",HORROR TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8?hdnts=st%3D1780439191~exp%3D1780460791~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-HORROR-TV-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F93dc292b-cbcf-4988-ab97-94feced4c14b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_128.24.162.8_yuppfast_2_channel_77_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_128.24.162.8_yuppfast_2_channel_77_-1~hmac%3D788066a4a6c40eb1dc1236b3e61d64a13b5b675df4cd0abb07a1db61aa6098f9
+
+#EXTINF:-1 tvg-chno="135" channel-number="135" tvg-logo="https://canvas-lb.tubitv.com/opts/dTQldekProaESw==/d94cfde1-49a9-4a2b-ab4f-a2848db4a588/CHgQeDoFMS4xLjlAAQ==" tvg-name="FAMILY FEUD" group-title="PjStreamTV",FAMILY FEUD
+https://live-manifest.production-public.tubi.io/live/a6ee322b-f3d8-4adf-b203-240c2001a6fe/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="136" channel-number="136" tvg-logo="https://canvas-lb.tubitv.com/opts/lnF_d9-y39CI8A==/ae22b756-ab2a-4cb2-bb18-ce281b110449/CHgQeDoFMS4xLjlAAQ==" tvg-name="FEAR FACTOR USA" group-title="PjStreamTV",FEAR FACTOR USA
+https://live-manifest.production-public.tubi.io/live/dde54a14-3364-49f8-a1f2-4a56c7e9ebb2/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="137" channel-number="137" tvg-logo="https://i.imgur.com/Tl6aW2u.png" tvg-name="YU-GI-OH!" group-title="PjStreamTV",YU-GI-OH!
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="138" channel-number="138" tvg-logo="https://i.imgur.com/ESV6qgH.png" tvg-name="FITE 24/7" group-title="PjStreamTV",FITE 24/7
+https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="139" channel-number="139" tvg-logo="https://imgur.com/Flkolfb.png" tvg-name="CARTOON CHANNEL PH" group-title="PjStreamTV",CARTOON CHANNEL PH
+https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="140" channel-number="140" tvg-logo="https://msntvphl.weebly.com/uploads/5/3/1/6/5316669/gotoonime2026-msn-new-logo_orig.png" tvg-name="GO! TOONIME" group-title="PjStreamTV",GO! TOONIME
+https://live20.bozztv.com/akamaissh101/ssh101/cominteractvalt/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="141" channel-number="141" tvg-logo="https://msntvphl.weebly.com/uploads/5/3/1/6/5316669/new-gc23_orig.png" tvg-name="GO! CENTRAL" group-title="PjStreamTV",GO! CENTRAL
+https://live20.bozztv.com/giatv/giatv-gocentraltv23ph/gocentraltv23ph/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="142" channel-number="142" tvg-logo="https://imgur.com/jrVs67D.png" tvg-name="TRACE SPORTS STARS" group-title="PjStreamTV",TRACE SPORTS STARS
+http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="143" channel-number="143" tvg-logo="https://imgur.com/6qa08k6.png" tvg-name="ABC" group-title="PjStreamTV",ABC
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15956.ts
+
+#EXTINF:-1 tvg-chno="144" channel-number="144" tvg-logo="https://imgur.com/Ox93M3L.png" tvg-name="NBA TV" group-title="PjStreamTV",NBA TV
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/22501.m3u8
+
+#EXTINF:-1 tvg-chno="145" channel-number="145" tvg-logo="https://imgur.com/Sz4wNXu.png" tvg-name="ESPN" group-title="PjStreamTV",ESPN
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15951.ts
+
+#EXTINF:-1 tvg-chno="146" channel-number="146" tvg-logo="https://imgur.com/3X4TOoU.png" tvg-name="ESPN 2" group-title="PjStreamTV",ESPN 2
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15950.ts
+
+#EXTINF:-1 tvg-chno="147" channel-number="147" tvg-logo="https://imgur.com/8yq5Dtx.png" tvg-name="ESPN NEWS" group-title="PjStreamTV",ESPN NEWS
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15952.ts
+
+#EXTINF:-1 tvg-chno="148" channel-number="148" tvg-logo="https://imgur.com/IRF9d0O.png" tvg-name="ESPN U" group-title="PjStreamTV",ESPN U
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15949.ts
+
+#EXTINF:-1 tvg-chno="149" channel-number="149" tvg-logo="https://imgur.com/MtddfQM.png" tvg-name="TNT HD" group-title="PjStreamTV",TNT HD
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15955.ts
+
+#EXTINF:-1 tvg-chno="150" channel-number="150" tvg-logo="https://imgur.com/tfljszR.png" tvg-name="TSN 1" group-title="PjStreamTV",TSN 1
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15929.ts
+
+#EXTINF:-1 tvg-chno="151" channel-number="151" tvg-logo="https://imgur.com/tfljszR.png" tvg-name="TSN 2" group-title="PjStreamTV",TSN 2
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15928.ts
+
+#EXTINF:-1 tvg-chno="152" channel-number="152" tvg-logo="https://imgur.com/tfljszR.png" tvg-name="TSN 3" group-title="PjStreamTV",TSN 3
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15927.ts
+
+#EXTINF:-1 tvg-chno="153" channel-number="153" tvg-logo="https://imgur.com/tfljszR.png" tvg-name="TSN 5" group-title="PjStreamTV",TSN 5
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15925.ts
+
+#EXTINF:-1 tvg-chno="154" channel-number="154" tvg-logo="https://imgur.com/mk6a7aw.png" tvg-name="TRU TV" group-title="PjStreamTV",TRU TV
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts
+
+#EXTINF:-1 tvg-chno="155" channel-number="155" tvg-logo="https://imgur.com/dlTrcX7.png" tvg-name="SPORTSNET ONE HD" group-title="PjStreamTV",SPORTSNET ONE HD
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts
+
+#EXTINF:-1 tvg-chno="156" channel-number="156" tvg-logo="https://imgur.com/rGKVVgl.png" tvg-name="SKY SPORT MOTOGP" group-title="PjStreamTV",SKY SPORT MOTOGP
+https://live.jalatech.ps/sky_sport_motogp_fhd/mpegts?token=436975d896c2eb66d38302ca4a291fcf
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+
+#EXTINF:-1 tvg-chno="157" channel-number="157" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" tvg-name="W-SPORT" group-title="PjStreamTV",W-SPORT
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="158" channel-number="158" tvg-logo="https://i.imgur.com/gfFaRwH.png" tvg-name="GOLF CHANNEL" group-title="PjStreamTV",GOLF CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="159" channel-number="159" tvg-logo="https://deprecated.cc/tv/images/PscZ81F.png" tvg-name="HELL's KITCHEN 2" group-title="PjStreamTV",HELL's KITCHEN 2
+https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="160" channel-number="160" tvg-logo="https://i.imgur.com/jcIprmt.png" tvg-name="RYAN AND FRIENDS" group-title="PjStreamTV",RYAN AND FRIENDS
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="161" channel-number="161" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/bbc-food.jpg" tvg-name="BBC FOOD" group-title="PjStreamTV",BBC FOOD
+https://d74d877d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDRm9vZF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="162" channel-number="162" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/home-and-food/gusto_tv.jpeg" tvg-name="GUSTO TV" group-title="PjStreamTV",GUSTO TV
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40699.m3u8
+
+#EXTINF:-1 tvg-chno="163" channel-number="163" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA48000082F_20230726T002548SQUARE.png_20230726002549.png" tvg-name="MOVIESPHERE" group-title="PjStreamTV",MOVIESPHERE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="164" channel-number="164" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA480000286_20220329T055447SQUARE.png_20220329055448.png" tvg-name="MYTIME MOVIES" group-title="PjStreamTV",MYTIME MOVIES
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="165" channel-number="165" tvg-logo="https://imgur.com/chtLSo8.png" tvg-name="CJ ENM" group-title="PjStreamTV",CJ ENM
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-chno="166" channel-number="166" tvg-logo="https://imgur.com/xS1XAg4.png" tvg-name="SBS TV" group-title="PjStreamTV",SBS TV
+https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-chno="167" channel-number="167" tvg-logo="https://imgur.com/jyXckZz.png" tvg-name="AFROLANDTV" group-title="PjStreamTV",AFROLANDTV
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=15235
+
+#EXTINF:-1 tvg-chno="168" channel-number="168" tvg-logo="https://imgur.com/mRLtHm0.png" tvg-name="AFROLAND-TSR" group-title="PjStreamTV",AFROLAND-TSR
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16481
+
+#EXTINF:-1 tvg-chno="169" channel-number="169" tvg-logo="https://imgur.com/WXStiug.png" tvg-name="AFROLAND-ALL HIPHOP" group-title="PjStreamTV",AFROLAND-ALL HIPHOP
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11877
+
+#EXTINF:-1 tvg-chno="170" channel-number="170" tvg-logo="https://imgur.com/ybZpYCy.png" tvg-name="AFROLAND-AVAZ" group-title="PjStreamTV",AFROLAND-AVAZ
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=13411
+
+#EXTINF:-1 tvg-chno="171" channel-number="171" tvg-logo="https://imgur.com/LRtrjTU.png" tvg-name="AFROLAND-THRILLER" group-title="PjStreamTV",AFROLAND-THRILLER
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6073
+
+#EXTINF:-1 tvg-chno="172" channel-number="172" tvg-logo="https://imgur.com/hIvKHGB.png" tvg-name="AFROLAND-NOLLYWOOD" group-title="PjStreamTV",AFROLAND-NOLLYWOOD
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6076
+
+#EXTINF:-1 tvg-chno="173" channel-number="173" tvg-logo="https://imgur.com/WLJxjkA.png" tvg-name="AFROLAND-COMEDY" group-title="PjStreamTV",AFROLAND-COMEDY
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068
+
+#EXTINF:-1 tvg-chno="174" channel-number="174" tvg-logo="https://imgur.com/ANf7bTd.png" tvg-name="AFROLAND-FAITH" group-title="PjStreamTV",AFROLAND-FAITH
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6077
+
+#EXTINF:-1 tvg-chno="175" channel-number="175" tvg-logo="https://imgur.com/hbsrP8E.png" tvg-name="AFROLAND-DRAMA" group-title="PjStreamTV",AFROLAND-DRAMA
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6067
+
+#EXTINF:-1 tvg-chno="176" channel-number="176" tvg-logo="https://imgur.com/jiFttQJ.png" tvg-name="AFROLAND-FAMILY" group-title="PjStreamTV",AFROLAND-FAMILY
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6072
+
+#EXTINF:-1 tvg-chno="177" channel-number="177" tvg-logo="https://imgur.com/IWSUapO.png" tvg-name="AFROLAND-ROMANCE" group-title="PjStreamTV",AFROLAND-ROMANCE
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6074
+
+#EXTINF:-1 tvg-chno="178" channel-number="178" tvg-logo="https://imgur.com/xvMd58O.png" tvg-name="AFROLAND-CRIME" group-title="PjStreamTV",AFROLAND-CRIME
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6070
+
+#EXTINF:-1 tvg-chno="179" channel-number="179" tvg-logo="https://imgur.com/tdwy36u.png" tvg-name="AFROLAND-BLACK EXPERIENCE" group-title="PjStreamTV",AFROLAND-BLACK EXPERIENCE
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6101
+
+#EXTINF:-1 tvg-chno="180" channel-number="180" tvg-logo="https://imgur.com/Xli492m.png" tvg-name="AFROLAND-AFRICAN" group-title="PjStreamTV",AFROLAND-AFRICAN
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6075
+
+#EXTINF:-1 tvg-chno="181" channel-number="181" tvg-logo="https://imgur.com/inGepjr.png" tvg-name="AFROLAND-DOCUS" group-title="PjStreamTV",AFROLAND-DOCUS
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6071
+
+#EXTINF:-1 tvg-chno="182" channel-number="182" tvg-logo="https://imgur.com/S7wS78o.png" tvg-name="AFROLAND-FEATURED" group-title="PjStreamTV",AFROLAND-FEATURED
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6057
+
+#EXTINF:-1 tvg-chno="183" channel-number="183" tvg-logo="https://imgur.com/G0kakaS.png" tvg-name="AFROLAND-HIPTV" group-title="PjStreamTV",AFROLAND-HIPTV
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16993
+
+#EXTINF:-1 tvg-chno="184" channel-number="184" tvg-logo="https://imgur.com/9tnFnr4.png" tvg-name="AFROLAND-THE HOME CHANNEL" group-title="PjStreamTV",AFROLAND-THE HOME CHANNEL
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=17131
+
+#EXTINF:-1 tvg-chno="185" channel-number="185" tvg-logo="https://i.imgur.com/1vKAozn.png" tvg-name="MN+" group-title="PjStreamTV",MN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd 
+
+#EXTINF:-1 tvg-chno="186" channel-number="186" tvg-logo="https://i.imgur.com/9QSwrlt.jpeg" tvg-name="MNX" group-title="PjStreamTV",MNX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd 
+
+#EXTINF:-1 tvg-chno="187" channel-number="187" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" tvg-name="MOVIES NOW" group-title="PjStreamTV",MOVIES NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-chno="188" channel-number="188" tvg-logo="https://imgur.com/6wciswL.png" tvg-name="ROMEDY NOW" group-title="PjStreamTV",ROMEDY NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-chno="189" channel-number="189" tvg-logo="https://i.imgur.com/eJFEVzn.jpeg" tvg-name="STAR MOVIES FHD" group-title="PjStreamTV",STAR MOVIES FHD
+http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="190" channel-number="190" tvg-logo="https://i.imgur.com/0y5TVLv.png" tvg-name="STAR MOVIES SELECT FHD" group-title="PjStreamTV",STAR MOVIES SELECT FHD
+http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="191" channel-number="191" tvg-logo="https://imgur.com/V0WdgMG.png" tvg-name="MUNDO SERIES" group-title="PjStreamTV",MUNDO SERIES
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="192" channel-number="192" tvg-logo="https://imgur.com/Wi1Np0N.png" tvg-name="BLOOMBERG ASIA" group-title="PjStreamTV",BLOOMBERG ASIA
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-chno="193" channel-number="193" tvg-logo="https://imgur.com/l28mROH.png" tvg-name="3ABN KIDS" group-title="PjStreamTV",3ABN KIDS
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="194" channel-number="194" tvg-logo="https://imgur.com/TyiIPAS.png" tvg-name="MIX HOLLYWOOD" group-title="PjStreamTV",MIX HOLLYWOOD
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
+#EXTINF:-1 tvg-chno="195" channel-number="195" tvg-logo="https://i.imgur.com/sj5h9bl.png" tvg-name="PARAMOUNT" group-title="PjStreamTV",PARAMOUNT
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+
+#EXTINF:-1 tvg-chno="196" channel-number="196" tvg-logo="https://imgur.com/NZ7eChw.png" tvg-name="ASIANBOX" group-title="PjStreamTV",ASIANBOX
+https://cdn3.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+
+#EXTINF:-1 tvg-chno="197" channel-number="197" tvg-logo="https://imgur.com/JyyVTlM.png" tvg-name="AMERICAN IDOL" group-title="PjStreamTV",AMERICAN IDOL
+https://d2yn8dyffvmgy.cloudfront.net/AmericanIdol_GB.m3u8
+
+#EXTINF:-1 tvg-chno="198" channel-number="198" tvg-logo="https://imgur.com/nVMLWxJ.png" tvg-name="AMERICA'S GOT TALENT" group-title="PjStreamTV",AMERICA'S GOT TALENT
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
+
+#EXTINF:-1 tvg-chno="199" channel-number="199" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBD1800002FD_20230726T002724SQUARE.png_20230726002725.png" tvg-name="FUEL TV" group-title="PjStreamTV",FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="200" channel-number="200" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ElGaragetv.webp" tvg-name="GARAGE TV" group-title="PjStreamTV",GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8?wowzasessionid=@iprtlk
+
+#EXTINF:-1 tvg-chno="201" channel-number="201" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pickleball-now.png" tvg-name="PICKLEBALL NOW" group-title="PjStreamTV",PICKLEBALL NOW
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8?hdnts=st%3D1780895933~exp%3D1780917533~acl%3D%21%2A%2Fvglive-sk-843549%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_172.184.213.225_yuppfast_2_channel_325_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_172.184.213.225_yuppfast_2_channel_325_-1~hmac%3D75d24590aece8bb66d05f7c3548ed823533503c7164bb4c90eeaff400a9ec452
+
+#EXTINF:-1 tvg-chno="202" channel-number="202" tvg-logo="https://imgur.com/UUuHQb4.png" tvg-name="GOPRO" group-title="PjStreamTV",GOPRO
+https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="203" channel-number="203" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/thumbnail.png" tvg-name="HALLMARK MOVIES & MORE" group-title="PjStreamTV",HALLMARK MOVIES & MORE
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885520/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885520
+
+#EXTINF:-1 tvg-chno="204" channel-number="204" tvg-logo="https://assets.ch3plus.com/ch3plus_logo.png" tvg-name="3PLUS" group-title="PjStreamTV",3PLUS
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="205" channel-number="205" tvg-logo="https://imgur.com/ZO2sKYJ.png" tvg-name="REDBULL TV" group-title="PjStreamTV",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-chno="206" channel-number="206" tvg-logo="https://i.imgur.com/YrKNJaT.png" tvg-name="THE BIGGEST LOSER" group-title="PjStreamTV",THE BIGGEST LOSER
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="207" channel-number="207" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-name="KARTOON CHANNEL!" group-title="PjStreamTV",KARTOON CHANNEL!
+https://amg01076-lightningintern-kartoonchannel-samsungnz-t8blu.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-kartoonchannel-samsungnz/cb5438176573608e84c83f61cef042a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7351db80148b61299bce8c37683f03409a5e5afba358b1ebe50b138b6cf5b71b55c72711ee9f43c8821da688825b9f5ed423f64294c1a1d9d043d485f3c9986d975cd18a2507fbb051d1a26dbed39660298c7826430d2789c9f1df7d4c4dc3de3e829beaac6cfe69a3e1f579d152c966a95a812a8565e87ccf16a60bcec9bd161143cee75a6d26a2e4b290f43b71c20e5c6ce0af105eadd16e0c77db62ce2b253b95bdc412c4e11482b72d82b57a575eaaf514cacde3d1aed8893bd86dd42b2db3716237a7145fecea9da44d9142fc6ba1cf5c0c5d434da19b6f09e7b3511d6d558f8c52d55c4ef78bcbcbe80735ce6f0c49a84eed1b543c8264373cd224f7cc6837c93e5cd17c7dda48258c47cbbd2edeaecfaa5368e2909414bf27c49d3effda4ee961355207f3d5295c4e433490cd6e1f3f74c60ab58699af274750a2a78dcdc15539153058075fdcacb426e9fbaa432a1fcf572977675046c676b147eb40185060996490c66f538a092621e3dd4f7e527e99c5b4c1ca96fd4dbb7bdcd8ee7b481f5c70b6270a3664b0e7dc091d59c8d8c3e8e6c9953141b7c0bbae965b0a0fd327bd34/110/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-chno="208" channel-number="208" tvg-logo="https://i.imgur.com/3wqeGXM.png" tvg-name="FILMRISE ANIME" group-title="PjStreamTV",FILMRISE ANIME
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-chno="209" channel-number="209" tvg-id="PjStreamTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" tvg-name="GLOBAL TREKKER" group-title="PjStreamTV",GLOBAL TREKKER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7a6c5d23f1e4a9d8c721e5d9f4a6b13:63ca9ad0d88fccb8c667b028f47287ba
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/globaltrekker/default/index.mpd
+
+#EXTINF:-1 tvg-chno="210" channel-number="210" tvg-logo="https://i.imgur.com/Qy1Mcoc.png" tvg-name="ZEE CINEMA" group-title="PjStreamTV",ZEE CINEMA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="211" channel-number="211" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" tvg-name="FILMRISE FREE MOVIES" group-title="PjStreamTV",FILMRISE FREE MOVIES
+https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
+
+#EXTINF:-1 tvg-chno="212" channel-number="212" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774448513257_RokuChannel_FilmRiseHorror_HUD_Logo_260x147.png" tvg-name="FILMRISE HORROR" group-title="PjStreamTV",FILMRISE HORROR
+https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8
+
+#EXTINF:-1 tvg-chno="213" channel-number="213" tvg-logo="https://imgur.com/VRx2Dal.png" tvg-name="STUDIO UNIVERSAL" group-title="PjStreamTV",STUDIO UNIVERSAL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
+
+#EXTINF:-1 tvg-chno="214" channel-number="214" tvg-logo="https://imgur.com/0KO1ggb.png" tvg-name="FIGHT+" group-title="PjStreamTV",FIGHT+
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="215" channel-number="215" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-name="OUTDOOR CHANNEL" group-title="PjStreamTV",OUTDOOR CHANNEL
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="216" channel-number="216" tvg-logo="https://www.vizio.com/content/dam/vizio/2022/watch-free-plus/partners/discover/unxplainedzone.jpg" tvg-name="UNXPLAINED ZONE" group-title="PjStreamTV",UNXPLAINED ZONE
+https://2fb56834.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVW5YcGxhaW5lZFpvbmVfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="217" channel-number="217" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/wpt.jpeg" tvg-name="WORLD POKER TOUR" group-title="PjStreamTV",WORLD POKER TOUR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="218" channel-number="218" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/xplore.jpeg" tvg-name="XPLORE" group-title="PjStreamTV",XPLORE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-xplore-vizio/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="219" channel-number="219" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBA40000114M_20220329T055323SQUARE.png_20220329055323.png" tvg-name="ACTION HOLLYWOOD MOVIES" group-title="PjStreamTV",ACTION HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="220" channel-number="220" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AUBC41000012Y_20230726T002736SQUARE.png_20230726002737.png" tvg-name="HAUNT TV" group-title="PjStreamTV",HAUNT TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="221" channel-number="221" tvg-logo="https://imgur.com/tYQUNdT.png" tvg-name="MIRAMAX MOVIES" group-title="PjStreamTV",MIRAMAX MOVIES
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-chno="222" channel-number="222" tvg-logo="https://i.imgur.com/RgQzgwm.png" tvg-name="SURVIVOR" group-title="PjStreamTV",SURVIVOR
+https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="223" channel-number="223" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" tvg-name="CATHOLIC TV" group-title="PjStreamTV",CATHOLIC TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+
+#EXTINF:-1 tvg-chno="224" channel-number="224" tvg-logo="https://tlgrm.re/images/amc-us.png" tvg-name="AMC HD" group-title="PjStreamTV",AMC HD
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/15923.m3u8
+
+#EXTINF:-1 tvg-chno="225" channel-number="225" tvg-logo="https://imgur.com/KSWWfjH.png" tvg-name="COMET" group-title="PjStreamTV",COMET
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-chno="226" channel-number="226" tvg-logo="https://i.imgur.com/8mAJuut.png" tvg-name="DATELINE 24/7" group-title="PjStreamTV",DATELINE 24/7
+https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
+
+#EXTINF:-1 tvg-chno="227" channel-number="227" tvg-logo="https://i.imgur.com/N51Rp7E.png" tvg-name="" group-title="PjStreamTV",XITE
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="228" channel-number="228" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" tvg-name="VEVO" group-title="PjStreamTV",VEVO
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/480p/index.m3u8
+
+#EXTINF:-1 tvg-chno="229" channel-number="229" tvg-logo="https://imgur.com/LpirWHq.png" tvg-name="TOM AND JERRY" group-title="PjStreamTV",TOM AND JERRY
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="230" channel-number="230" tvg-logo="https://imgur.com/JgF5P0B.png" tvg-name="MR. BEAN ANIMATED" group-title="PjStreamTV",MR. BEAN ANIMATED
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="231" channel-number="231" tvg-logo="https://imgur.com/xRK4mXU.png" tvg-name="MR. BEAN LIVE ACTION" group-title="PjStreamTV",MR. BEAN LIVE ACTION
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="232" channel-number="232" tvg-logo="https://imgur.com/zITTerq.png" tvg-name="FOX NEWS NOW" group-title="PjStreamTV",FOX NEWS NOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="233" channel-number="233" tvg-logo="https://imgur.com/iw1SXyg.png" tvg-name="GLOBAL NEWS" group-title="PjStreamTV",GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:-1 tvg-chno="234" channel-number="234" tvg-logo="https://imgur.com/BsQ5ftx.png" tvg-name="ANIMATION +" group-title="PjStreamTV",ANIMATION +
+https://linear-918.frequency.stream/dist/lg-us/918/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="235" channel-number="235" tvg-logo="https://imgur.com/jsRtKFX.png" tvg-name="REAL HOUSEWIVES VAULT" group-title="PjStreamTV",REAL HOUSEWIVES VAULT
+https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-chno="236" channel-number="236" tvg-logo="https://imgur.com/sw2OrSL.png" tvg-name="BRAVO VAULT" group-title="PjStreamTV",BRAVO VAULT
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-chno="237" channel-number="237" tvg-logo="https://i.imgur.com/M40b4YI.png" tvg-name="RETRO CRUSH" group-title="PjStreamTV",RETRO CRUSH
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="238" channel-number="238" tvg-logo="https://gia.tv/streams/logo/208268.png?1784854506" tvg-name="KPOP TV" group-title="PjStreamTV",KPOP TV
+https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="239" channel-number="239" tvg-logo="https://i.imgur.com/fGUlCY3.png" tvg-name="POP" group-title="PjStreamTV",POP
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/cb5438176573618b84c83d64cef341a8f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7353db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a0af1c56953145f59647cfd41de884800a83128672f6099c93a68ace19878ec37efd02bb3051002429c0d878c1fb8cd7b0ef01e14e7652242e7da4c8a3f647308f575355f6fad8cd0a9571efba554ae4aad97afc6e97398b11de613f0447d2c398de454020a5ca1b6522e0cab285b9495b528e50c19bbf222ce3873a7755dd65dd302578bdf4c51085cd1499f464ed70d41a4aa3bc76a9e7ceb3fdbf9b439226cf87fb9e7d6f4770050f8f4ee2b57fd22cd36ca9c2594736291dfdca0596c4b1ca531397f865d5e58b5b99a25d1042ba23835f3b108341ca520423e1356275e92cc33d5d06940b059f3c31f7597ad50cacf864c2aed5e1092ca69ee976bf3ebffb5a89b635a0636a0d59f3ea7a0b0c0c5cc0fe6a08077cc16eedc785b4245e4ebfa18db6eb7b0c2a155b120082e9e230bc8bc322125f81702e727b1d12d95583389150075060995ee0ad0f75970f6e78b5f0710e0c2cb3ccb6ced6839b0ae5318381ad4b5a513354b43d012979c0f6dc098f5f654a3a0cd0413439f26d336fe396dbea8a8f68daee0d873161066cd6ff1155733c56670d9ed0259769eb9d19b68cd91eabcb88014e9133b30b72cc823c0d1758557329c0327cf69df9facea04b5655f9483071/22/426x240_667680/index.m3u8
+
+#EXTINF:-1 tvg-chno="240" channel-number="240" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-name="YAHOO! FINANCE" group-title="PjStreamTV",YAHOO! FINANCE
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="241" channel-number="241" tvg-logo="https://tlgrm.re/images/cozi-tv-us.png" tvg-name="COZI TV" group-title="PjStreamTV",COZI TV
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23337.m3u8
+
+#EXTINF:-1 tvg-chno="242" channel-number="242" tvg-logo="http://whiplash.cc/assets/img/channels/whiplash.png" tvg-name="WHIPLASH" group-title="PjStreamTV",WHIPLASH
+https://cdn.whiplash.cc/whiplash/index.m3u8
+
+#EXTINF:-1 tvg-chno="243" channel-number="243" tvg-logo="http://whiplash.cc/assets/img/channels/whiplash2.png" tvg-name="WHIPLASH 2" group-title="PjStreamTV",WHIPLASH 2
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
+
+#EXTINF:-1 tvg-chno="244" channel-number="244" tvg-logo="http://whiplash.cc/assets/img/channels/whiplashcinema.png" tvg-name="WHIPLASH CINEMA" group-title="PjStreamTV",WHIPLASH CINEMA
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+
+#EXTINF:-1 tvg-chno="245" channel-number="245" tvg-logo="http://whiplash.cc/assets/img/channels/windowtv.png" tvg-name="WINDOW TV" group-title="PjStreamTV",WINDOW TV
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
+
+#EXTINF:-1 tvg-chno="246" channel-number="246" tvg-logo="http://whiplash.cc/assets/img/channels/atlas.png" tvg-name="ATLAS" group-title="PjStreamTV",ATLAS
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+
+#EXTINF:-1 tvg-chno="247" channel-number="247" tvg-logo="https://imgur.com/df7q6dA.png" tvg-name="YRF MUSIC" group-title="PjStreamTV",YRF MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="248" channel-number="248" tvg-logo="https://imgur.com/STyVdZE.png" tvg-name="AVA FAMILY" group-title="PjStreamTV",AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-chno="249" channel-number="249" tvg-logo="https://i.imgur.com/8AfAfZE.png" tvg-name="AVA SERIES" group-title="PjStreamTV",AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-chno="250" channel-number="250" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-name="BBC EARTH" group-title="PjStreamTV",BBC EARTH
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="251" channel-number="251" tvg-logo="https://imgur.com/wysMmnl.png" tvg-name="HI YAH!" group-title="PjStreamTV",HI YAH!
+https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="252" channel-number="252" tvg-logo="https://imgur.com/gmu67Ls.png" tvg-name="A&E" group-title="PjStreamTV",A&E
+http://23.239.31.26:8989/aande/index.m3u8
+
+#EXTINF:-1 tvg-chno="253" channel-number="253" tvg-logo="https://imgur.com/buN6Z7q.png" tvg-name="CRAVE 1" group-title="PjStreamTV",CRAVE 1
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40656.m3u8
+
+#EXTINF:-1 tvg-chno="254" channel-number="254" tvg-logo="https://imgur.com/r6DzmPM.png" tvg-name="CRAVE 2" group-title="PjStreamTV",CRAVE 2
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40655.m3u8
+
+#EXTINF:-1 tvg-chno="255" channel-number="255" tvg-logo="https://imgur.com/hXsYrC6.png" tvg-name="CRAVE 3" group-title="PjStreamTV",CRAVE 3
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40654.m3u8
+
+#EXTINF:-1 tvg-chno="256" channel-number="256" tvg-logo="https://imgur.com/SNwJh6w.png" tvg-name="CRAVE 4" group-title="PjStreamTV",CRAVE 4
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40653.m3u8
+
+#EXTINF:-1 tvg-chno="257" channel-number="257" tvg-logo="https://imgur.com/HfKLhbh.png" tvg-name="BLUES TV" group-title="PjStreamTV",BLUES TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="258" channel-number="258" tvg-logo="https://imgur.com/eTe9Q8s.png" tvg-name="JAPANIM TV" group-title="PjStreamTV",JAPANIM TV
+https://foxkidstv.be:3369/stream/play.m3u8
+
+#EXTINF:-1 tvg-chno="259" channel-number="259" tvg-logo="https://imgur.com/5tclOLG.png" tvg-name="PERSIANA JUNIOR" group-title="PjStreamTV",PERSIANA JUNIOR
+https://junhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-chno="260" channel-number="260" tvg-logo="https://imgur.com/TQuK5X1.png" tvg-name="FX" group-title="PjStreamTV",FX
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/48378.m3u8
+
+#EXTINF:-1 tvg-chno="261" channel-number="261" tvg-logo="https://imgur.com/FNepGp8.png" tvg-name="FXX" group-title="PjStreamTV",FXX
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/48379.m3u8
+
+#EXTINF:-1 tvg-chno="262" channel-number="262" tvg-logo="https://tlgrm.re/images/fxm-movie-channel-us.png" tvg-name="FXM" group-title="PjStreamTV",FXM
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23309.m3u8
+
+#EXTINF:-1 tvg-chno="263" channel-number="263" tvg-logo="https://i.imgur.com/UoiUwFj.png" tvg-name="AFTV" group-title="PjStreamTV",AFTV
+https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="264" channel-number="264" tvg-logo="https://imgur.com/Ikru2WF.png" tvg-name="THE FIRST TV" group-title="PjStreamTV",THE FIRST TV
+https://thefirst-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="265" channel-number="265" tvg-logo="https://imgur.com/TgbXYwi.png" tvg-name="OROMAR TV" group-title="PjStreamTV",OROMAR TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-chno="266" channel-number="266" tvg-logo="https://imgur.com/75Kp3hE.png" tvg-name="HOME+" group-title="PjStreamTV",HOME+
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-chno="267" channel-number="267" tvg-logo="https://i.imgur.com/GzxgSkc.png" tvg-name="BOUNCE XL" group-title="PjStreamTV",BOUNCE XL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="268" channel-number="268" tvg-logo="https://imgur.com/jQ9mlxV.png" tvg-name="RAKUTEN TV" group-title="PjStreamTV",RAKUTEN TV
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+
+#EXTINF:-1 tvg-chno="269" channel-number="269" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" tvg-name="BRAT TV" group-title="PjStreamTV",BRAT TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="270" channel-number="270" tvg-logo="https://imgur.com/2FR48Vy.png" tvg-name="DUCK TV" group-title="PjStreamTV",DUCK TV
+https://cgplaymaxcigcon.vwgsalvador.workers.dev/duck_tv/cplaymax/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="271" channel-number="271" tvg-logo="https://imgur.com/CS64AND.png" tvg-name="RIC TV" group-title="PjStreamTV",RIC TV
+https://cgplaymaxcigcon.vwgsalvador.workers.dev/ric_tv_sk/cplaymax/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="272" channel-number="272" tvg-logo="https://imgur.com/p3Dqfoa.png" tvg-name="TOON GOGGLES" group-title="PjStreamTV",TOON GOGGLES
+https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
+
+#EXTINF:-1 tvg-chno="273" channel-number="273" tvg-logo="https://tlgrm.re/images/utsav-gold-uk.png" tvg-name="STAR GOLD HD" group-title="PjStreamTV",STAR GOLD HD
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/47841.m3u8
+
+#EXTINF:-1 tvg-chno="274" channel-number="274" tvg-logo="https://imgur.com/GdHUglW.png" tvg-name="KOCOWA K-DRAMA" group-title="PjStreamTV",KOCOWA K-DRAMA
+https://dbrb49pjoymg4.cloudfront.net/10001/99991348/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991348&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Kocowa&ads.csid=xumo_desktopweb_Kocowa_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Action%2CAdventure%2CComedy%2CCrime%2CDrama%2CFamily%2CFantasy%2CHorror%2CMystery%2CRomance%2CSci-Fi%2CThriller%2CWar%2CWestern%2CSuperhero&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=International&ads._fw_content_rating=TV-14&ads.xumo_contentId=285&ads.xumo_contentName=Kocowa&ads.xumo_providerId=285&ads.xumo_providerName=Kocowa&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991348&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.1&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+
+#EXTINF:-1 tvg-chno="275" channel-number="275" tvg-logo="https://imgur.com/LBwFx5q.png" tvg-name="DRAMA HOTPOT" group-title="PjStreamTV",DRAMA HOTPOT
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#EXTINF:-1 tvg-chno="276" channel-number="276" tvg-logo="https://imgur.com/fX4OMgT.png" tvg-name="MeTV" group-title="PjStreamTV",MeTV
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/44205.m3u8
+
+#EXTINF:-1 tvg-chno="277" channel-number="277" tvg-logo="https://imgur.com/Dhm7rnj.png" tvg-name="DUBAI TV" group-title="PjStreamTV",DUBAI TV
+http://185.9.2.18/chid_139/index.m3u8
+
+#EXTINF:-1 tvg-chno="278" channel-number="278" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/united-states/MGM%2B_logo.svg.png" tvg-name="MGM+" group-title="PjStreamTV",MGM+
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23325.m3u8
+
+#EXTINF:-1 tvg-chno="279" channel-number="279" tvg-logo="https://tlgrm.re/images/cinemax-moremax-us.png" tvg-name="MOREMAX HD" group-title="PjStreamTV",MOREMAX HD
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/15910.m3u8
+
+#EXTINF:-1 tvg-chno="280" channel-number="280" tvg-logo="https://tlgrm.re/images/showtime-2-us.png" tvg-name="SHOWTIME 2" group-title="PjStreamTV",SHOWTIME 2
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/48359.m3u8
+
+#EXTINF:-1 tvg-chno="281" channel-number="281" tvg-logo="https://tlgrm.re/images/sho-bet-us.png" tvg-name="SHOXBET" group-title="PjStreamTV",SHOXBET
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/48365.m3u8
+
+#EXTINF:-1 tvg-chno="282" channel-number="282" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png" tvg-name="STARZ KIDS & FAMILY" group-title="PjStreamTV",STARZ KIDS & FAMILY
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23251.m3u8
+
+#EXTINF:-1 tvg-chno="283" channel-number="283" tvg-logo="https://tlgrm.re/images/syfy-hz-us.png" tvg-name="SYFY HD" group-title="PjStreamTV",SYFY HD
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/22469.m3u8
+
+#EXTINF:-1 tvg-chno="284" channel-number="284" tvg-logo="https://tlgrm.re/images/tcm-us.png" tvg-name="TCM" group-title="PjStreamTV",TCM
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23249.m3u8
+
+#EXTINF:-1 tvg-chno="285" channel-number="285" tvg-logo="https://tlgrm.re/images/telemundo-us.png" tvg-name="TELEMUNDO" group-title="PjStreamTV",TELEMUNDO
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23248.m3u8
+
+#EXTINF:-1 tvg-chno="286" channel-number="286" tvg-logo="https://tlgrm.re/images/tlc-us.png" tvg-name="TLC HD" group-title="PjStreamTV",TLC HD
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/15969.m3u8
+
+#EXTINF:-1 tvg-chno="287" channel-number="287" tvg-logo="https://tlgrm.re/images/vh1-us.png" tvg-name="VH1" group-title="PjStreamTV",VH1
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/22898.m3u8
+
+#EXTINF:-1 tvg-chno="288" channel-number="288" tvg-logo="https://imgur.com/sT1OVqr.png" tvg-name="VICE TV" group-title="PjStreamTV",VICE TV
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/15971.m3u8
+
+#EXTINF:-1 tvg-chno="289" channel-number="289" tvg-logo="https://tlgrm.re/images/we-tv-us.png" tvg-name="WE TV" group-title="PjStreamTV",WE TV
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23233.m3u8
+
+#EXTINF:-1 tvg-chno="290" channel-number="290" tvg-logo="https://imgur.com/brtJM1M.png" tvg-name="W NETWORK" group-title="PjStreamTV",W NETWORK
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40670.m3u8
+
+#EXTINF:-1 tvg-chno="291" channel-number="291" tvg-logo="https://imgur.com/a5UIRkV.png" tvg-name="DISNEY CHANNEL HD" group-title="PjStreamTV",DISNEY CHANNEL HD
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23332.m3u8
+
+#EXTINF:-1 tvg-chno="292" channel-number="292" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/master/countries/united-states/wwe-us.png" tvg-name="WWE" group-title="PjStreamTV",WWE
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/47642.m3u8
+
+#EXTINF:-1 tvg-chno="293" channel-number="293" tvg-logo="https://imgur.com/0zjL9zu.png" tvg-name="DAYSTAR TV" group-title="PjStreamTV",DAYSTAR TV
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40729.m3u8
+
+#EXTINF:-1 tvg-chno="294" channel-number="294" tvg-logo="https://tlgrm.re/images/dejaview-ca.png" tvg-name="DEJAVIEW" group-title="PjStreamTV",DEJAVIEW
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40728.m3u8
+
+#EXTINF:-1 tvg-chno="295" channel-number="295" tvg-logo="https://imgur.com/AbXFb5q.png" tvg-name="DISCOVERY" group-title="PjStreamTV",DISCOVERY
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40727.m3u8
+
+#EXTINF:-1 tvg-chno="296" channel-number="296" tvg-logo="https://tlgrm.re/images/discovery-science-ca.png" tvg-name="DISCOVERY SCIENCE" group-title="PjStreamTV",DISCOVERY SCIENCE
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40726.m3u8
+
+#EXTINF:-1 tvg-chno="297" channel-number="297" tvg-logo="https://imgur.com/ZDjqSpH.png" tvg-name="DIY NETWORK" group-title="PjStreamTV",DIY NETWORK
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40722.m3u8
+
+#EXTINF:-1 tvg-chno="298" channel-number="298" tvg-logo="https://imgur.com/x54Ccix.png" tvg-name="E!" group-title="PjStreamTV",E!
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40719.m3u8
+
+#EXTINF:-1 tvg-chno="299" channel-number="299" tvg-logo="https://tlgrm.re/images/hgtv-ca.png" tvg-name="HGTV" group-title="PjStreamTV",HGTV
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40695.m3u8
+
+#EXTINF:-1 tvg-chno="300" channel-number="300" tvg-logo="https://imgur.com/XzJfbRQ.png" tvg-name="MAX" group-title="PjStreamTV",MAX
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40683.m3u8
+
+#EXTINF:-1 tvg-chno="301" channel-number="301" tvg-logo="https://imgur.com/yjBKA90.png" tvg-name="ONE" group-title="PjStreamTV",ONE
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/40637.m3u8
+
+#EXTINF:-1 tvg-chno="302" channel-number="302" tvg-logo="https://imgur.com/hVemii6.png" tvg-name="G SERIES" group-title="PjStreamTV",G SERIES
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-chno="303" channel-number="303" tvg-logo="https://imgur.com/CzTvPGO.png" tvg-name="KUNG FU+" group-title="PjStreamTV",KUNG FU+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="304" channel-number="304" tvg-logo="https://imgur.com/JOsKks6.png" tvg-name="ROMCOM K-DRAMA" group-title="PjStreamTV",ROMCOM K-DRAMA
+https://4df655f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfUm9tQ29tS0RyYW1hX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="305" channel-number="305" tvg-logo="https://imgur.com/QGCwscn.png" tvg-name="BOLLY FLIX" group-title="PjStreamTV",BOLLY FLIX
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+
+#EXTINF:-1 tvg-chno="306" channel-number="306" tvg-logo="https://imgur.com/i2pWajj.png" tvg-name="KRONEHIT TV" group-title="PjStreamTV",KRONEHIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
+
+#EXTINF:-1 tvg-chno="307" channel-number="307" tvg-logo="https://imgur.com/w5buphh.png" tvg-name="FOX 5" group-title="PjStreamTV",FOX 5
+http://206.212.246.134/24/index.m3u8
+
+#EXTINF:-1 tvg-chno="308" channel-number="308" tvg-logo="https://tlgrm.re/images/reelz-us.png" tvg-name="REELZ" group-title="PjStreamTV",REELZ
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/48752.m3u8
+
+#EXTINF:-1 tvg-chno="309" channel-number="309" tvg-logo="https://imgur.com/MSREESz.png" tvg-name="HUM NEWS" group-title="PjStreamTV",HUM NEWS
+http://38.101.217.46/HumNews/index.m3u8
+
+#EXTINF:-1 tvg-chno="310" channel-number="310" tvg-logo="https://imgur.com/3L89V5h.png" tvg-name="HUM WORLD" group-title="PjStreamTV",HUM WORLD
+http://38.101.217.46/HumSitaray/index.m3u8
+
+#EXTINF:-1 tvg-chno="311" channel-number="311" tvg-logo="https://imgur.com/9rRhCRO.png" tvg-name="VAANAM TV" group-title="PjStreamTV",VAANAM TV
+https://lanka.vaanam24.com:3712/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-chno="312" channel-number="312" tvg-logo="https://imgur.com/bSyijs2.png" tvg-name="OUTFLIX MOVIES" group-title="PjStreamTV",OUTFLIX MOVIES
+https://dplsy81obpo46.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-66x5q4k9ervn1/OutTV_US.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CA800002TN
+
+#EXTINF:-1 tvg-chno="313" channel-number="313" tvg-logo="https://imgur.com/tF0qeh1.png" tvg-name="GREAT! MOVIES" group-title="PjStreamTV",GREAT! MOVIES
+https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="314" channel-number="314" tvg-logo="https://imgur.com/dn5tznL.png" tvg-name="KIDSFLIX" group-title="PjStreamTV",KIDSFLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-chno="315" channel-number="315" tvg-logo="https://imgur.com/lAyMQwl.png" tvg-name="ANIME ALL DAY" group-title="PjStreamTV",ANIME ALL DAY
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/62a2e8d8a1c8650007e95bac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YzVkMmFlLTIzODgtNDg3Ny1hMTM1LTFiN2RhZDJkYjMxYSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg0Mzk1NjQ4LCJpYXQiOjE3ODQzMDkyNDgsImp0aSI6IjI1NDliZGM0LWM3MmMtNGIzMy1hZjFiLTE0MzY5OTA0MjgyYiJ9.wFVQEY2_Ze_wVjlXs-HSkEXTwlzBvOa8JY0IB3uU7Kg
+
+#EXTINF:-1 tvg-chno="316" channel-number="316" tvg-logo="https://imgur.com/jJpPIOe.png" tvg-name="AXN BLACK" group-title="PjStreamTV",AXN BLACK
+http://88.212.15.19/live/test_black/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="317" channel-number="317" tvg-logo="https://cdn.tvivu.com/logos/popflix-gb-160.webp" tvg-name="POPFLIX" group-title="PjStreamTV",POPFLIX
+https://af4689b464b143c89c08aab63ce4718d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Popflix/playlist.m3u8?ads.wurl_channel=1068&ads.wurl_name=Popflix&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="318" channel-number="318" tvg-logo="https://i.imgur.com/Ym32WqZ.png" tvg-name="RAGE TV" group-title="PjStreamTV",RAGE TV
+https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="319" channel-number="319" tvg-logo="https://tlgrm.re/images/nickelodeon-uk.png" tvg-name="NICKELODEON" group-title="PjStreamTV",NICKELODEON
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/47798.m3u8
+
+#EXTINF:-1 tvg-chno="320" channel-number="320" tvg-logo="https://imgur.com/HQ8JjTM.png" tvg-name="SONY MAX" group-title="PjStreamTV",SONY MAX
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/47835.m3u8
+
+#EXTINF:-1 tvg-chno="321" channel-number="321" tvg-logo="https://tlgrm.re/images/oxygen-us.png" tvg-name="OXYGEN" group-title="PjStreamTV",OXYGEN
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23271.m3u8
+
+#EXTINF:-1 tvg-chno="322" channel-number="322" tvg-logo="https://tlgrm.re/images/revolt-us.png" tvg-name="REVOLT" group-title="PjStreamTV",REVOLT
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23260.m3u8
+
+#EXTINF:-1 tvg-chno="323" channel-number="323" tvg-logo="https://tlgrm.re/images/smithsonian-channel-us.png" tvg-name="SMITHSONIAN CHANNEL" group-title="PjStreamTV",SMITHSONIAN CHANNEL
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/47549.m3u8
+
+#EXTINF:-1 tvg-chno="324" channel-number="324" tvg-logo="https://tlgrm.re/images/sundance-tv-us.png" tvg-name="SUNDANCE" group-title="PjStreamTV",SUNDANCE
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23250.m3u8
+
+#EXTINF:-1 tvg-chno="325" channel-number="325" tvg-logo="https://tlgrm.re/images/tv-land-us.png" tvg-name="TV LAND" group-title="PjStreamTV",TV LAND
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/23241.m3u8
+
+#EXTINF:-1 tvg-chno="326" channel-number="326" tvg-logo="https://imgur.com/4NMUy9i.png" tvg-name="INTRAVEL PHILIPPINES" group-title="PjStreamTV",INTRAVEL PHILIPPINES
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/360p/index.m3u8
+
+#EXTINF:-1 tvg-chno="327" channel-number="327" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" tvg-name="HITS HD" group-title="PjStreamTV",HITS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NssgY79TONGNMWVzcbFYFw","kid":"H+kmhadYRNxUydrBJIAlEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="328" channel-number="328" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" tvg-name="HITS MOVIES" group-title="PjStreamTV",HITS MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="329" channel-number="329" tvg-id="PjStreamTV" tvg-logo="https://imgur.com/3elB3f1.png" tvg-name="ONE 31 THAILAND" group-title="PjStreamTV",ONE 31 THAILAND
+https://live-us1.thaimomo.com/live-as/chone-3/chunklist_w1503204530.m3u8
+
+#EXTINF:-1 tvg-chno="330" channel-number="330" tvg-logo="https://imgur.com/a0dN5Uz.png" tvg-name="MEI AH" group-title="PjStreamTV",MEI AH
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+
+#EXTINF:-1 tvg-chno="331" channel-number="331" tvg-logo="https://imgur.com/Io3JAHJ.png" tvg-name="MYTHBUSTERS" group-title="PjStreamTV",MYTHBUSTERS
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="332" channel-number="332" tvg-logo="https://imgur.com/TVP6Hnd.png" tvg-name="AMASIA" group-title="PjStreamTV",AMASIA
+https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="333" channel-number="333" tvg-logo="https://imgur.com/r7FXjTf.png" tvg-name="ADRENALINE +" group-title="PjStreamTV",ADRENALINE +
+https://a-cdn.klowdtv.com/live3/adr_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="334" channel-number="334" tvg-logo="https://imgur.com/26IV1rk.png" tvg-name="FAST BOX" group-title="PjStreamTV",FAST BOX
+https://dash4.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="335" channel-number="335" tvg-logo="https://imgur.com/Jry0nLM.png" tvg-name="FIGHT BOX" group-title="PjStreamTV",FIGHT BOX
+https://dash4.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="336" channel-number="336" tvg-logo="https://imgur.com/bhcuE8T.png" tvg-name="DOCU BOX" group-title="PjStreamTV",DOCU BOX
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="337" channel-number="337" tvg-logo="https://imgur.com/Zjts14O.png" tvg-name="FASHION BOX" group-title="PjStreamTV",FASHION BOX
+https://dash4.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="338" channel-number="338" tvg-logo="https://imgur.com/r9h6Aj9.png" tvg-name="TIKTOK" group-title="PjStreamTV",TIKTOK
+http://d3is52sgpnlx4c.cloudfront.net/10901/88885552/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885552
+
+#EXTINF:-1 tvg-chno="339" channel-number="339" tvg-logo="https://imgur.com/8gX5ZKc.png" tvg-name="PET CLUB TV" group-title="PjStreamTV",PET CLUB TV
+https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="340" channel-number="340" tvg-logo="https://imgur.com/IaTDTk1.png" tvg-name="FIFA+" group-title="PjStreamTV",FIFA+
+https://339a32f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="341" channel-number="341" tvg-logo="https://imgur.com/3rA35hm.png" tvg-name="SONY ONE ACTION HITS" group-title="PjStreamTV",SONY ONE ACTION HITS
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="342" channel-number="342" tvg-logo="https://imgur.com/4HbZRg4.png" tvg-name="SONY ONE COMEDY HITS" group-title="PjStreamTV",SONY ONE COMEDY HITS
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="343" channel-number="343" tvg-logo="https://www.bce.lu/wp-content/uploads/2023/04/Euronews-logo.png" tvg-name="EURO NEWS" group-title="PjStreamTV",EURO NEWS
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="344" channel-number="344" tvg-logo="https://imgur.com/3PvqsWz.png" tvg-name="CCTN" group-title="PjStreamTV",CCTN
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 tvg-chno="345" channel-number="345" tvg-logo="https://imgur.com/9wp1TDg.png" tvg-name="WORLD OF LOVE ISLAND" group-title="PjStreamTV",WORLD OF LOVE ISLAND
+https://amg00654-itv-amg00654c39-samsung-th-8169.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="346" channel-number="346" tvg-logo="https://imgur.com/jQiRWFl.png" tvg-name="THE HOTEL INSPECTOR" group-title="PjStreamTV",THE HOTEL INSPECTOR
+https://amg00654-itv-amg00654c4-samsung-th-8167.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="347" channel-number="347" tvg-logo="https://imgur.com/NC9IFhH.png" tvg-name="ANTIQUES ROAD TRIP" group-title="PjStreamTV",ANTIQUES ROAD TRIP
+https://amg02333-pbs-amg02333c12-samsung-us-8496.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="348" channel-number="348" tvg-logo="https://imgur.com/PKIk0b7.png" tvg-name="PEPPA PIG" group-title="PjStreamTV",PEPPA PIG
+https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
+
+#EXTINF:-1 tvg-chno="349" channel-number="349" tvg-logo="https://i.imgur.com/x57klfS.png" tvg-name="DOCUMENTARY+" group-title="PjStreamTV",DOCUMENTARY+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="361" channel-number="361" tvg-logo="https://imgur.com/OafBJWp.png" tvg-name="FILM CAFE" group-title="PjStreamTV",FILM CAFE
+http://88.212.15.19/live/film_cafe/index.m3u8
+
+#EXTINF:-1 tvg-chno="362" channel-number="362" tvg-logo="https://imgur.com/IEG5Nl3.png" tvg-name="FILMBOX EMOTION" group-title="PjStreamTV",FILMBOX EMOTION
+https://webtvstream.bhtelecom.ba/hls7/filmbox_extra_1200.m3u8
+
+#EXTINF:-1 tvg-chno="363" channel-number="363" tvg-logo="https://imgur.com/zuMMQqX.png" tvg-name="FILMBOX HITS" group-title="PjStreamTV",FILMBOX HITS
+https://webtvstream.bhtelecom.ba/hls7/filmbox_premium_1200.m3u8
+
+#EXTINF:-1 tvg-chno="364" channel-number="364" tvg-logo="https://imgur.com/kJHKr3S.png" tvg-name="FUN BOX" group-title="PjStreamTV",FUN BOX
+https://webtvstream.bhtelecom.ba/hls15/funbox_1200.m3u8
+
+#EXTINF:-1 tvg-chno="365" channel-number="365" tvg-logo="https://imgur.com/7KdhANj.png" tvg-name="DRIVE SPEED" group-title="PjStreamTV",DRIVE SPEED
+https://streams2.sofast.tv/umaxx/v1/0196fce247271eb4611d16bd20c1ac/0196fce2a9361ea5064918d106ecf8/drive_speed_eng_2500k.m3u8
+
+#EXTINF:-1 tvg-chno="366" channel-number="366" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" tvg-name="HBO" group-title="PjStreamTV",HBO
+http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="367" channel-number="367" tvg-logo="https://imgur.com/fSrzFXP.png" tvg-name="ANIMAL PLANET" group-title="PjStreamTV",ANIMAL PLANET
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/15957.m3u8
+
+#EXTINF:-1 tvg-chno="368" channel-number="368" tvg-logo="https://i.imgur.com/omP283K.png" tvg-name="RAI ITALIA" group-title="PjStreamTV",RAI ITALIA
+http://136.239.159.18:6610/001/2/ch00000090990000001099/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2FDUoNrO3rJTMQSZlDUFIEsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001235&contentid=ch00000000000000001235&videoid=ch00000090990000001099&recommendtype=0&userid=1127958632030&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KEK2TOK1TAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="369" channel-number="369" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Pinoyextremechannel.png" tvg-name="PINOY XTREME CHANNEL" group-title="PjStreamTV",PINOY XTREME CHANNEL
+http://136.239.158.18:6610/001/2/ch00000090990000001098/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApC219uqwL0dVmslrkAjamFsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001222&contentid=ch00000000000000001222&videoid=ch00000090990000001098&recommendtype=0&userid=1869817604648&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NKXBKKPYOEXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="370" channel-number="370" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png" tvg-name="DD NATIONAL" group-title="PjStreamTV",DD NATIONAL
+http://136.239.173.26:6610/001/2/ch00000090990000001148/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApXWNNS2TvTF9lR8xvbk1CJsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001318&contentid=ch00000000000000001318&videoid=ch00000090990000001148&recommendtype=0&userid=1830273769159&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=57CNEQJF8E8XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="371" channel-number="371" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/c/c0/VOP_Logo.png" tvg-name="RJTV RADYO BANDIDO TV" group-title="PjStreamTV",RJTV RADYO BANDIDO TV
+http://136.239.173.2:6610/001/2/ch00000090990000001338/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAquM2DhqYshrFbBoS4HC4mc2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001829&contentid=ch00000000000000001829&videoid=ch00000090990000001338&recommendtype=0&userid=1573154325684&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LFDH1A45249XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="372" channel-number="372" tvg-logo="https://imgur.com/fv6VvQ5.png" tvg-name="HUNAN TV" group-title="PjStreamTV",HUNAN TV
+http://136.239.158.18:6610/001/2/ch00000090990000001164/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp6wcBVnnqOi%2FM7rVR2UnT6syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001375&contentid=ch00000000000000001375&videoid=ch00000090990000001164&recommendtype=0&userid=1198199669463&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=3O0U5MCARNTXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="373" channel-number="373" tvg-logo="https://imgur.com/WfwAcyz.png" tvg-name="WION" group-title="PjStreamTV",WION
+http://136.239.159.20:6610/001/2/ch00000090990000001265/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq8k274WYPuH9%2FjID6Bh2tQ2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001695&contentid=ch00000000000000001695&videoid=ch00000090990000001265&recommendtype=0&userid=1780179991829&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DARB71YAJ45XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="374" channel-number="374" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Da_Ai_Television_%28Taiwan%29_logo.png" tvg-name="DAAI TV" group-title="PjStreamTV",DAAI TV
+http://136.239.158.30:6610/001/2/ch00000090990000001201/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoc972%2B9bszPiQPXL2uIItWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001420&contentid=ch00000000000000001420&videoid=ch00000090990000001201&recommendtype=0&userid=1264262612215&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=US5Y9RCOTWMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="375" channel-number="375" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ItYMF-jQgNwrYf1yGCTFpDuFz0T-t9Ba9A&s" tvg-name="SAUDI TV" group-title="PjStreamTV",SAUDI TV
+http://136.239.159.18:6610/001/2/ch00000090990000001176/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqx%2BXO6kYP1duDF0CR%2BT7zbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001413&contentid=ch00000000000000001413&videoid=ch00000090990000001176&recommendtype=0&userid=1635054451771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=17AVARI79W0IXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="376" channel-number="376" tvg-logo="https://i.imgur.com/CbjwXj8.jpeg" tvg-name="FILAM TV" group-title="PjStreamTV",FILAM TV
+http://136.239.159.18:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-chno="377" channel-number="377" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/F222CD8E-81E5-4D77-AC2F-86E7129C2DD7/0-16x9.jpg?width=1980" tvg-name="KAPATID" group-title="PjStreamTV",KAPATID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f45397
+https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
+
+#EXTINF:-1 tvg-chno="378" channel-number="378" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjbvbMC6QPQjsgxZXHiAjG7EC7LPKXZprwstmV0XyLd1pazjMk9Dq7buyQ5c4Pszh6HlAb0cQFl-WRMPQ1YKXyreAHuAxs_QrxV7gXurgKfC-6KfwrSbRUorYv1XyM5EcpZ-xWPIJKE4fK_tXyfJX85JTZ2DxoINTGT6yNyHjojSD_WFMiZ1d27Hf7PvmI" tvg-name="I HEART MOVIES" group-title="PjStreamTV",I HEART MOVIES
+https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=b4cf9f6b9889717d9bfd4e4487978e76
+
+#EXTINF:-1 tvg-chno="379" channel-number="379" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEie_7cIli0m_8SWd-3wtmpRgAFwkzqn6wdR7HlsSWw4zB4knb1BrPn921MEO7POwHe-lpKued_bVMXO564WtRQZiOKV9Tgt7c1bSkd96kklzeE0zs1MUUG51G-FVDNv4Nbi1uq9JD7mWBpq5sVaq4m2qadUOE8Cx7JPBPkibPdRHPlOeq9ihkOhfVr6UfI" tvg-name="HEART OF ASIA" group-title="PjStreamTV",HEART OF ASIA
+https://nokotan.anhkz.fr/channel/n5f560977/index.m3u8?q=b4cf9f6b9889717d9bfd4e4487978e76
+
+#EXTINF:-1 tvg-chno="380" channel-number="380" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/Box_Hits_3D.png/revision/latest?cb=20230124143723&path-prefix=vi" tvg-name="BOX HITS" group-title="PjStreamTV",BOX HITS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/BOXHIT/manifest.mpd
+
+#EXTINF:-1 tvg-chno="381" channel-number="381" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest?cb=20230515132648&path-prefix=vi" tvg-name="BOX MOVIE 1" group-title="PjStreamTV",BOX MOVIE 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
+
+#EXTINF:-1 tvg-chno="382" channel-number="382" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/4514F052-94DC-47C5-8BB1-DA42BD5F2F57/0-16x9.jpg?width=1980" tvg-name="TRUE FM TV" group-title="PjStreamTV",TRUE FM TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c4e9a516d724f30b2187a3c5e9d6041:e25c167573772b510ff8e5282560a349
+https://ucdn.mediaquest.com.ph/bpk-tv/truefm_tv/default/index.mpd
+
+#EXTINF:-1 tvg-chno="383" channel-number="383" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/Music_Box_3D.png/revision/latest?cb=20221224124435&path-prefix=vi" tvg-name="MUSIC BOX" group-title="PjStreamTV",MUSIC BOX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
+
+#EXTINF:-1 tvg-chno="384" channel-number="384" tvg-logo="https://i.imgur.com/fNnbBYC.jpeg" tvg-name="KOREAN DRAMA" group-title="PjStreamTV",KOREAN DRAMA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ed197e7253c04946903f03bad9afac91":"99ebb8683ea74b70a9fda1cbdc2cc1b4"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/index.mpd
+
+#EXTINF:-1 tvg-chno="385" channel-number="385" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" tvg-name="DMAX" group-title="PjStreamTV",DMAX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={'53b26f904ae03a20b56477cfb9c5dca2':'0c64ccfb978e7390bd33344075492aec'}
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+
+#EXTINF:-1 tvg-chno="386" channel-number="386" tvg-logo="https://i.imgur.com/Nd9gqA2.png" tvg-name="K+" group-title="PjStreamTV",K+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="387" channel-number="387" tvg-logo="https://i.imgur.com/YvlcPso.png" tvg-name="ASTRO GOLF" group-title="PjStreamTV",ASTRO GOLF
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="388" channel-number="388" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ShortsTV_transparent_logo.png" tvg-name="SHORTS TV ACTIVE" group-title="PjStreamTV",SHORTS TV ACTIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+
+#EXTINF:-1 tvg-chno="389" channel-number="389" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/WOMAN_logo.png/revision/latest?cb=20230120034059&path-prefix=vi" tvg-name="WOMAN" group-title="PjStreamTV",WOMAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/WO/manifest.mpd
+
+#EXTINF:-1 tvg-chno="390" channel-number="390" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZYsXFqofA9yrEHWjtaq2_0bdkIy4zY2-nIqEYa6lwYDiw0C4UeZMkpW7TYmCeAwYW4I-GideXBIuMrVxBi3PzcIFpLYQb4-5BMQYuESt7mO2-V4gY2yaxjhfafRDijOtM6rHp7PVu84sFoJjDxCT62UMdGznoq4tZrnDb8I9gslTCMl5ecwgK/w640-h456/image02_Pinkfong%20Surpassing%201B%20Streams%20on%20Spotify.jpg" tvg-name="BABY SHARK TV" group-title="PjStreamTV",BABY SHARK TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="391" channel-number="391" tvg-logo="https://ia803207.us.archive.org/32/items/zoo-moo-kids-2020_202006/ZooMoo-Kids-2020.png" tvg-name="ZOO MOO KIDS" group-title="PjStreamTV",ZOO MOO KIDS
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-chno="392" channel-number="392" tvg-logo="https://i.ibb.co/X2YSB2V/scifi-world-512-X512-balck-removebg-preview.png" tvg-name="SCI-FI WORLD" group-title="PjStreamTV",SCI-FI WORLD
+https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="393" channel-number="393" tvg-logo="https://i.ibb.co/tYVXTKn/1adventure-Earth-1-removebg-preview-1.png" tvg-name="ADVENTURE EARTH" group-title="PjStreamTV",ADVENTURE EARTH
+https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="394" channel-number="394" tvg-logo="https://i.ibb.co/cyzcGKq/wurl-bits-a-travel-removebg-preview.png" tvg-name="AUTHENTIC TRAVEL" group-title="PjStreamTV",AUTHENTIC TRAVEL
+https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="395" channel-number="395" tvg-logo="https://imgur.com/DsqZ6ip.png" tvg-name="BLAST MOVIES" group-title="PjStreamTV",BLAST MOVIES
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="" tvg-name="" group-title="PjStreamTV",
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="" tvg-name="" group-title="PjStreamTV",
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="" tvg-name="" group-title="PjStreamTV",
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="" tvg-name="" group-title="PjStreamTV",
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="" tvg-name="" group-title="PjStreamTV",
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="" tvg-name="" group-title="PjStreamTV",
+
+
+**********FM Radio**********
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://imgur.com/8zXiWP0.png" group-title="Radio",DURIAN TELERADIO
+http://167.114.131.90:1848/index.mp3
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://apk.radyoph.com/upload/1770613956_ABSFM_NEW_BATAAN_CRP.png" group-title="Radio",ABSFM NEW BATAAN DDO
+https://xcite.radyoph.com:8030/absfm_newbataan
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://apk.radyoph.com/upload/1770611479_ABSFM_MONTEVISTA_CRP.png" group-title="Radio",ABSFM MONTEVISTA DDO
+https://stream.amfm.link:8030/absfm_montevista
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://apk.radyoph.com/upload/1699338023_480 RN NABUNTURAN 104.7 V2.png" group-title="Radio",104.7 RADYO NATIN NABUNTURAN DDO
+https://web.radyonatinfm.com:8020/nabunturan
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://apk.radyoph.com/upload/1787468504_maxfmdavao.png" group-title="Radio",MAX FM 94.7 DAVAO
+https://tx.amfm.link:8010/maxfm
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://apk.radyoph.com/upload/1780553514_homeradio2026.png" group-title="Radio",HOME RADIO 98.7 DAVAO
+https://hrdavao.radioca.st/stream
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/98996.v6.png" group-title="Radio",MONSTER RADIO BT99.5 DAVAO
+https://in-icecast.eradioportal.com:8443/monsterrx_davao_
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://static.mytuner.mobi/media/radios-150px/109/fm-radio-davao.309cd736.png" group-title="Radio",101.9 FMR DAVAO
+http://us2.amfmph.com:9226/stream
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://cdn.radoxo.com/images/philippines/mango-radio.webp?v=1780030802.png" group-title="Radio",MANGO RADIO 102.7 DAVAO 
+http://120.28.221.139:8000/stream
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://apk.radyoph.com/upload/1776867720_awrhoperadio.png" group-title="Radio",HOPE RADIO 104.3 DAVAO
+https://stream.dxbh.net/hopedxma
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/131430.v4.png" group-title="Radio",EASY ROCK 105.1 DAVAO
+https://easyrockdavao.radioca.st/stream
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://apk.radyoph.com/upload/1773409466_TheAnchorDavao.png" group-title="Radio",ANCHOR RADIO 105.9 DAVAO
+https://icecast.theanchor.app/bbbc
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://apk.radyoph.com/upload/1780225092_UMRadio.png" group-title="Radio",UM RADIO DAVAO
+https://stream.zeno.fm/fing1gwxuqztv
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://i.imgur.com/yiEcFKh.jpeg" group-title="Radio",SEND THE WORD ONLINE RADIO
+https://stream-175.zeno.fm/4vgyas31hc9uv
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://i.imgur.com/kunEMqf.png" tvg-name="DREAMSTAR TELERADIO" group-title="Radio",DREAMSTAR TELERADIO
+https://usa3.fastcast4u.com/proxy/dtmmbs/stream
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://i.imgur.com/l8FPzmz.jpeg" group-title="Radio",REBORNKADA 91.3 FM
+https://usa2.server2028.com/listen/rebornkada_91.3_fm/radio.mp3
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://i.imgur.com/ntU52uG.jpeg" group-title="Radio",COOL 106.7 FM
+https://usa2.server2028.com/listen/cool_106.7_-_fm/radio.mp3
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://i.imgur.com/v1wALJX.jpeg" group-title="Radio",NHERS ONLINE RADIO
+https://usa2.server2028.com/listen/nhers_teleradyo_/radio.mp3
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://i.imgur.com/ty7PDVU.png" group-title="Radio",OFW MC FOUNDATION FM
+https://usa2.server2028.com/listen/ofw_mc_foundation_fm/radio.mp3
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://i.imgur.com/TjkNLMb.jpeg" group-title="Radio",JPV RADIO
+https://usa2.server2028.com/listen/jpv_radio/radio.mp3
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://apk.radyoph.com/upload/1707642548_Dwxi1314.png" group-title="Radio",DWXI
+https://in-icecast.eradioportal.com:8443/dwxi-streaming
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://imgur.com/lSLUtCB.png" group-title="Radio",GOD's HEART RADIO 
+https://securestreams.autopo.st:1092/index.mp3
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="Dummy" tvg-logo="https://i.imgur.com/puHTa91.jpeg" group-title="Radio",106.3 YES FM DAGUPAN
+https://yesfmdagupan.radioca.st/stream
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="radio-Barangay LS 97.1" tvg-logo="https://i.imgur.com/jcmWuO7.jpeg" group-title="Radio",BARANGAY LS 97.1
+https://gsattv.akamaized.net/live/media0/radiodwls/Fairplay/radiodwls.m3u8
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="radio-loveradio-dagupan" tvg-logo="https://i.imgur.com/8zUwWgn.jpeg" group-title="Radio",98.3 LOVE RADIO DAGUPAN
+https://loveradiodagupan.radioca.st/
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="radio-radiodzbb" tvg-logo="https://i.imgur.com/tnUAjtb.jpeg" group-title="Radio",DZBB
+https://gsattv.akamaized.net/live/media0/radiodzbb/Fairplay/radiodzbb.m3u8
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="radio-loveradio-manila" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png" tvg-name="90.7 Love Radio" group-title="Radio",90.7 Love Radio
+https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="radio-eaglefm" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" tvg-name="95.5 Eagle FM" group-title="Radio",95.5 Eagle FM
+http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="radio-easyrock" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" tvg-name="96.3 Easy Rock" group-title="Radio",96.3 Easy Rock
+https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="radio-homeradio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" tvg-name="97.9 Home Radio" group-title="Radio",97.9 Home Radio
+https://hrmanila.radioca.st/stream
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="radio-yesfm-manila" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" tvg-name="101.1 Yes FM" group-title="Radio",101.1 Yes FM
+https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-id="radio-energyfm" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" tvg-name="106.7 Energy FM" group-title="Radio",106.7 Energy FM
+http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png" group-title="Radio",90.7 Love Radio
+https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/14g9Qvi.png" group-title="Radio",91.5 Win Radio
+https://stream.zeno.fm/nz4ydgnu6hhvv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/113/fm-radio-philippines.60a60500.jpg" group-title="Radio",92.3 FM RADIO Manila
+http://us1.amfmph.com:8872/stream?type=.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="Radio",93.1 Monster Radio RX 
+https://in-icecast.eradioportal.com:8443/monsterrrx
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="Radio",95.5 Eagle FM
+http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" group-title="Radio",96.3 Easy Rock
+https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/673/dzfe-the-masters-touch-987-fm.d089acb9.jpg" group-title="Radio",98.7 The Master's Touch
+http://sg-icecast.eradioportal.com:8000/febc_dzfe
+
+**********MOVIES**********
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/movies-and-tvs/amcn-twdu_vizio_discoveryon_378x216_v01.jpg" tvg-name="The Walking Dead Universe" group-title="24/7 MOVIES",The Walking Dead Universe
+https://3544bb307ed14ee28dc1e02dfc7056be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_TWDUniverseExperience/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/discover/paranormal_files.png" tvg-name="Paranormal Files" group-title="24/7 MOVIES",Paranormal Files
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885527/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885527
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://bloody-disgusting.com/wp-content/uploads/2016/07/A-Nightmare-on-Elm-Street.jpg" tvg-name="A NIGHTMARE ON ELM ST" group-title="24/7 MOVIES",A NIGHTMARE ON ELM ST
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99780
+
+#EXTINF:-1 channel-id="6197086891ddd4000739941a" tvg-id="6197086891ddd4000739941a" tvg-chno="" tvg-name="Perry Mason" tvg-logo="https://images.pluto.tv/channels/6197086891ddd4000739941a/colorLogoPNG_1731835750293.png" group-title="24/7 MOVIES",Perry Mason
+https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
+
+#EXTINF:-1 channel-id="5f77977bd924d80007eee60c" tvg-id="5f77977bd924d80007eee60c" tvg-chno="" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG_1731835516936.png" group-title="24/7 MOVIES",Mission Impossible
+https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
+
+#EXTINF:-1 channel-id="5efbd29e4aa26700076c0d06" tvg-id="5efbd29e4aa26700076c0d06" tvg-chno="" tvg-name="CSI" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-title="24/7 MOVIES",CSI
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+
+#EXTINF:-1 channel-id="62f54c11b3af68000702c304" tvg-id="62f54c11b3af68000702c304" tvg-chno="" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG_1731837343443.png" group-title="24/7 MOVIES",CSI: Miami
+https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
+
+#EXTINF:-1 channel-id="62f54c6439183b000769fb8f" tvg-id="62f54c6439183b000769fb8f" tvg-chno="" tvg-name="CSI: NY" tvg-logo="https://images.pluto.tv/channels/62f54c6439183b000769fb8f/colorLogoPNG_1731837277521.png" group-title="24/7 MOVIES",CSI: NY
+https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
+
+#EXTINF:-1 channel-id="65653817c917a5000844bc30" tvg-id="65653817c917a5000844bc30" tvg-chno="" tvg-name="Criminal Minds" tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png" group-title="24/7 MOVIES",Criminal Minds
+https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
+
+#EXTINF:-1 channel-id="68758038552299d2b08162e3" tvg-id="68758038552299d2b08162e3" tvg-chno="" tvg-name="Law & Order" tvg-logo="https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png" group-title="24/7 MOVIES",Law & Order
+https://jmp2.uk/plu-68758038552299d2b08162e3.m3u8
+
+#EXTINF:-1 channel-id="61b3b8c645b45d0007a9bb8d" tvg-id="61b3b8c645b45d0007a9bb8d" tvg-chno="" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoPNG_1731834396573.png" group-title="24/7 MOVIES",Blue Bloods
+https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://canvas-lb.tubitv.com/opts/zLoOXSCJ53buRQ==/cede5a8f-240c-4790-bd37-e1e51583cd0c/CHgQeDoFMS4xLjlAAQ==" tvg-name="Forensic Files" group-title="24/7 MOVIES",Forensic Files
+https://live-manifest.production-public.tubi.io/live/8ebe3ce9-1b31-4a38-be9f-4b55f6b49eaf/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://canvas-lb.tubitv.com/opts/b_lV2vB1BiPx6A==/56b0a95e-2750-408d-9059-2c4c170e7dca/CHgQeDoFMS4xLjlAAQ==" tvg-name="The FBI Files" group-title="24/7 MOVIES",The FBI Files
+https://live-manifest.production-public.tubi.io/live/8aee9cff-b626-4950-99e5-809fb599100e/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://canvas-lb.tubitv.com/opts/aKYeZc2Iq7NuYQ==/864892f9-3ab0-4950-9f8b-189ec2d92c20/CHgQeDoFMS4xLjlAAQ==" tvg-name="Unsolved Mysteries" group-title="24/7 MOVIES",Unsolved Mysteries
+https://live-manifest.production-public.tubi.io/live/35099120-35d3-463f-a923-f5e68332d6aa/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://imgur.com/UeakChY.png" tvg-name="REQUESTED MOVIES" group-title="REQUESTED MOVIES",LOVE, NGO
+https://videos.gia.tv/giatv/movies/playlist/211768/LOVE__NGO.mp4
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://imgur.com/UeakChY.png" tvg-name="REQUESTED MOVIES" group-title="REQUESTED MOVIES",CALL ME MOTHER
+https://videos.gia.tv/giatv/movies/playlist/211869/CALL_ME_MOTHER.mp4
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://imgur.com/UeakChY.png" tvg-name="REQUESTED MOVIES" group-title="REQUESTED MOVIES",SPIDER-MAN BRAND NEW DAY
+https://videos.gia.tv/giatv/movies/playlist/212059/SPIDER_MAN_BRAND_NEW_DAY_2026_compressed.mp4
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://imgur.com/UeakChY.png" tvg-name="REQUESTED MOVIES" group-title="REQUESTED MOVIES",NIGHT NURSE
+https://videos.gia.tv/giatv/movies/playlist/212059/NIGHT_NURSE.mp4
+
+#EXTINF:-1 tvg-chno="" channel-number="" tvg-logo="https://imgur.com/UeakChY.png" tvg-name="REQUESTED MOVIES" group-title="REQUESTED MOVIES",THE DEVILS WEARS PRADA 2
+https://videos.gia.tv/giatv/movies/playlist/211768/The_Devil_Wears_Prada_2_2026_720p_DCP_WEBRIP_x264_ESub_Hollymoviehd.mp4
+
