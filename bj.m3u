@@ -15,8 +15,6 @@ https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="BJ STREAM", PBB 3.0 ALL ACESS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key_id=8150b74d16324bb4b2ff62e3e202fc7a
 #KODIPROP:inputstream.adaptive.clear_key=0c5ed4f9db9d4ee61bbc91b3a51ef8b5
@@ -24,8 +22,6 @@ https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="BJ STREAM", PBB 3.0 MAIN LIVE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key_id=1044e7ece2d741bcafe80d8613da104f
 #KODIPROP:inputstream.adaptive.clear_key=f5e17f169ff05ea40c5d3f065f523942
