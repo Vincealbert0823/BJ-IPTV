@@ -4,8 +4,8 @@
 
 #EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imgur.com/RCPlm91.jpeg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="BJ STREAM",PBB 3.0 Dining Area Livestream
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
-#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+#KODIPROP:inputstream.adaptive.key_id=737377f8bde649ee9eb563613b42395e
+#KODIPROP:inputstream.adaptive.clear_key=a3b3784c19979b7bdd9680b6f32a786c
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
 
 #EXTINF:-1 tvg-chno="779" channel-number="779" tvg-id="PBB 3.0 External Den Livestream" tvg-logo="https://i.imgur.com/RCPlm91.jpeg" tvg-name="PBB 3.0 External Den Livestream" group-title="BJ STREAM",PBB 3.0 External Den Livestream
