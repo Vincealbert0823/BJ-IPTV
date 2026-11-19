@@ -2,33 +2,25 @@
 # PJ-StreamTV-ready playlist
 # Normalized: clean channel names, sequential tvg-chno/channel-number, one playable URL per EXTINF.
 
-#EXTINF:-1 tvg-name="PBB Collab Edition 3.0 Live" group-title="PBB COLLAB EDITION",PBB Collab Edition 3.0 Live
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.key_id=1044e7ece2d741bcafe80d8613da104f
-#KODIPROP:inputstream.adaptive.clear_key=f5e17f169ff05ea40c5d3f065f523942
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://absp-live.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="RYANTV FREETV", PBB 3.0 ALL ACESS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b75e0a8315d0499b834c00a3d5b91935:39876c3c4f32a11dee56078febbb67dd
+https://pbbcollab.com/api/live/mpd/all.mpd
 
-#EXTINF:-1 tvg-name="PBB All Access Live" group-title="PBB COLLAB EDITION",PBB All Access Live
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.key_id=8150b74d16324bb4b2ff62e3e202fc7a
-#KODIPROP:inputstream.adaptive.clear_key=0c5ed4f9db9d4ee61bbc91b3a51ef8b5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="RYANTV FREETV", PBB 3.0 DINNING AREA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea6588d030c94ca89925ac0c49974430:3e6de4afee1eff8e14f9506b76ac9ee6
+https://pbbcollab.com/api/live/mpd/din.mpd
 
-#EXTINF:-1 tvg-name="PBB Dining Area" group-title="PBB COLLAB EDITION",PBB Dining Area
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
-#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://absp-live.akamaized.net/das...30allaccesslivestream-diningarea/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="RYANTV FREETV", PBB 3.0 ETERNAL DEN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b750a40736a24e60b5a4f256208b92c5:af07292597f692726dcac2bd297ddf8e
+https://pbbcollab.com/api/live/mpd/ext.mpd
 
-#EXTINF:-1 tvg-name="PBB External Den" group-title="PBB COLLAB EDITION",PBB External Den
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.key_id=b750a40736a24e60b5a4f256208b92c5
-#KODIPROP:inputstream.adaptive.clear_key=af07292597f692726dcac2bd297ddf8e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://absp-live.akamaized.net/das...0allaccesslivestream-externalden/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="RYANTV FREETV", PBB 3.0 MAIN LIVE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
+https://pbbcollab.com/api/live/mpd/main.mpd
 
 #EXTINF:-1 tvg-chno="1" channel-number="1" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/dpGrvi4.jpeg" tvg-name="DURIAN TV" group-title="PjStreamTV",DURIAN TV
 https://duriantv.tonia3305.workers.dev/master.live.m3u8
